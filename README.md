@@ -50,7 +50,7 @@ Pytorch by facebook
 tensorflow by google 
 
 # install on gpu the fast.ai which has all the libraries(anaconda,jup)
-
+[https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 
 [https://github.com/TomLous/practical-deep-learning
 
@@ -78,6 +78,9 @@ tensorflow by google
 
 [https://selfdrivingcars.mit.edu
 
+[https://medium.com/ai-saturdays/the-windows-guide-to-setting-up-a-google-cloud-instance-for-the-fast-ai-course-fe2d61f098ca
+
+[https://medium.com/ai-saturdays/the-windows-guide-to-setting-up-a-google-cloud-instance-for-the-fast-ai-course-fe2d61f098ca
 
 # Python Basics 
 
@@ -98,9 +101,11 @@ list compression
 
 lambda 
 
+[https://nbviewer.jupyter.org/github/atulsingh0/Python/tree/master/Learn/
+[https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb
 
+# Git
 
-
-
+[https://www.learnenough.com/git-tutorial
 
 
