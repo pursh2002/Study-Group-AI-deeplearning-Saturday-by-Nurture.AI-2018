@@ -35,7 +35,9 @@ Preparation Session for the upcoming AI Saturdays regular sessions. Topics inclu
 github student pack
 AWS student 9 hours/hour
 Intel AI Devcloud
-Google Cloud platform free tier  300 machine leaning modouls with gpu: paper space (chepest) 0.4$/h
+Google Cloud platform free tier  300 machine leaning modouls with gpu: paper space (chepest) 0.4$/h)
+crestle
+neptune 
 
 
 
