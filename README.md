@@ -10,7 +10,7 @@ Preparation Session for the upcoming AI Saturdays regular sessions. Topics inclu
 3) Git
 4) Setting up AWS/Google Cloud/local servers for GPU training
 
-##Lecture videos for learning essence of Algebra 
+###Lecture videos for learning essence of Algebra 
 
 [https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
