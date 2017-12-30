@@ -32,13 +32,13 @@ Preparation Session for the upcoming AI Saturdays regular sessions. Topics inclu
 14. Abstract vector spaces | Essence of linear algebra, chapter 11
 
 ## AWS
-github student pack
-AWS student 9 hours/hour
-Intel AI Devcloud
-Google Cloud platform free tier  300 machine leaning modouls with gpu: paper space (chepest) 0.4$/h)
-crestle
-neptune 
-GPU cards 700$ nvidia(98000), geforce gtx 1080 Ti
+* github student pack
+* AWS student 9 hours/hour
+* Intel AI Devcloud
+* Google Cloud platform free tier  300 machine leaning modouls with gpu: paper space (chepest) 0.4$/h)
+* crestle
+* neptune 
+* GPU cards 700$ nvidia(98000), geforce gtx 1080 Ti
 
 
 
