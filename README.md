@@ -72,6 +72,14 @@ tensorflow by google
 
 [https://github.com/fastai/fastai
 
+[https://github.com/stats385/stats385.github.io
+
+[https://www.pluralsight.com/blog/data-professional/learning-path-data-analyst
+
+[https://selfdrivingcars.mit.edu
+
+
+
 
 
 
