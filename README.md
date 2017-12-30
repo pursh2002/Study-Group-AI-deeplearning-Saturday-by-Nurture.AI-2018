@@ -11,9 +11,10 @@ Preparation Session for the upcoming AI Saturdays regular sessions. Topics inclu
 4) Setting up AWS/Google Cloud/local servers for GPU training
 
 ##Lecture videos for learning essence of Algebra 
-(https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-(https://www.deeplearning.ai)
+######(https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+######(https://www.deeplearning.ai)
 
 1 Vectors, what even are they? | Essence of linear algebra, chapter 1
 2. Linear combinations, span, and basis vectors | Essence of linear algebra, chapter 2
