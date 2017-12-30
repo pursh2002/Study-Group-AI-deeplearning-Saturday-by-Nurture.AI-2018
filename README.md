@@ -16,6 +16,10 @@ Preparation Session for the upcoming AI Saturdays regular sessions. Topics inclu
 
 [https://www.deeplearning.ai)
 
+[http://www.fast.ai
+
+[http://forums.fast.ai 
+
 1.  Vectors, what even are they? | Essence of linear algebra, chapter 1
 2.  Linear combinations, span, and basis vectors | Essence of linear algebra, chapter 2
 3.  Linear transformations and matrices | Essence of linear algebra, chapter 3
@@ -39,6 +43,12 @@ Preparation Session for the upcoming AI Saturdays regular sessions. Topics inclu
 * crestle
 * neptune 
 * GPU cards 700$ nvidia(98000), geforce gtx 1080 Ti
+
+
+Pytorch by facebook
+tensorflow by google 
+
+
 
 
 
