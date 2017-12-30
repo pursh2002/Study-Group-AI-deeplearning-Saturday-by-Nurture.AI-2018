@@ -10,9 +10,10 @@ Preparation Session for the upcoming AI Saturdays regular sessions. Topics inclu
 3) Git
 4) Setting up AWS/Google Cloud/local servers for GPU training
 
-Lecture videos for learning essence of Algebra 
-####### https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
-####### https://www.deeplearning.ai 
+##Lecture videos for learning essence of Algebra 
+(https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+(https://www.deeplearning.ai)
 
 1 Vectors, what even are they? | Essence of linear algebra, chapter 1
 2. Linear combinations, span, and basis vectors | Essence of linear algebra, chapter 2
@@ -28,6 +29,13 @@ Lecture videos for learning essence of Algebra
 12.Change of basis | Essence of linear algebra, chapter 9
 13.Eigenvectors and eigenvalues | Essence of linear algebra, chapter 10
 14.Abstract vector spaces | Essence of linear algebra, chapter 11
+
+##AWS
+github student pack
+AWS student 9 hours/hour
+Intel AI Devcloud
+Google Cloud platform free tier  300 machine leaning modouls with gpu: paper space (chepest) 0.4$/h
+
 
 
 
