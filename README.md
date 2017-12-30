@@ -20,6 +20,7 @@ Preparation Session for the upcoming AI Saturdays regular sessions. Topics inclu
 
 [http://forums.fast.ai 
 
+
 1.  Vectors, what even are they? | Essence of linear algebra, chapter 1
 2.  Linear combinations, span, and basis vectors | Essence of linear algebra, chapter 2
 3.  Linear transformations and matrices | Essence of linear algebra, chapter 3
@@ -48,8 +49,28 @@ Preparation Session for the upcoming AI Saturdays regular sessions. Topics inclu
 Pytorch by facebook
 tensorflow by google 
 
+# install on gpu the fast.ai which has all the libraries(anaconda,jup)
 
 
+[https://github.com/TomLous/practical-deep-learning
+
+[http://www.cbrevik.com/setup-for-fast-ai-course/
+
+[https://github.com/fastai/fastai
+
+[https://github.com/fastai/courses/blob/master/setup/install-gpu.sh
+
+[http://wiki.fast.ai/index.php/Installation
+
+[https://github.com/fastai/courses
+
+[https://www.youtube.com/watch?v=8rjRfW4JM2I
+
+[https://towardsdatascience.com/getting-started-with-fast-ai-mooc-in-aws-d2ffcd65c7b0
+
+[https://github.com/fastai/courses/tree/master/setup
+
+[https://github.com/fastai/fastai
 
 
 
