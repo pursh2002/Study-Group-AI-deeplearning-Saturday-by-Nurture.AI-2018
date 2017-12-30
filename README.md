@@ -79,6 +79,26 @@ tensorflow by google
 [https://selfdrivingcars.mit.edu
 
 
+# Python Basics 
+
+groupby, 
+sort/sorted,dict/list,set and list 
+when to use ?
+
+generator compression 
+
+reverse index [::-1]
+
+diffrence  
+sort
+
+sorted -
+
+list compression 
+
+lambda 
+
+
 
 
 
