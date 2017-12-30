@@ -12,9 +12,9 @@ Preparation Session for the upcoming AI Saturdays regular sessions. Topics inclu
 
 ##Lecture videos for learning essence of Algebra 
 
-######(https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+[https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
-######(https://www.deeplearning.ai)
+[https://www.deeplearning.ai)
 
 1 Vectors, what even are they? | Essence of linear algebra, chapter 1
 2. Linear combinations, span, and basis vectors | Essence of linear algebra, chapter 2
@@ -38,6 +38,9 @@ Intel AI Devcloud
 Google Cloud platform free tier  300 machine leaning modouls with gpu: paper space (chepest) 0.4$/h)
 crestle
 neptune 
+GPU cards 700$ nvidia(98000), geforce gtx 1080 Ti
+
+
 
 
 
