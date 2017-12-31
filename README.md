@@ -118,5 +118,6 @@ lambda
 [https://github.com/collections/machine-learning
 [https://developers.google.com/machine-learning/glossary/#a
 [https://python-graph-gallery.com
+[https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/
 
 
