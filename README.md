@@ -108,4 +108,15 @@ lambda
 
 [https://www.learnenough.com/git-tutorial
 
+# Articals
+
+[https://medium.com/the-mission/deconstructing-data-science-breaking-the-complex-craft-into-its-simplest-parts-15b15420df21
+
+[https://medium.com/ai-saturdays/how-to-read-academic-papers-without-freaking-out-3f7ef43a070f
+[https://medium.com/the-mission/deconstructing-data-science-breaking-the-complex-craft-into-its-simplest-parts-15b15420df21
+[http://www.holehouse.org/mlclass/
+[https://github.com/collections/machine-learning
+[https://developers.google.com/machine-learning/glossary/#a
+[https://python-graph-gallery.com
+
 
