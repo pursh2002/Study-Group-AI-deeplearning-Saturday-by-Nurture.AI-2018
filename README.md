@@ -119,5 +119,6 @@ lambda
 [https://developers.google.com/machine-learning/glossary/#a
 [https://python-graph-gallery.com
 [https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/
+[http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
 
 
