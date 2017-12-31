@@ -123,5 +123,6 @@ lambda
 [https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/
 [http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
 [https://www.linkedin.com/pulse/machine-learning-whats-inside-box-randy-lao/?published=t
+[https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf
 
 
