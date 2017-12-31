@@ -102,7 +102,9 @@ list compression
 lambda 
 
 [https://nbviewer.jupyter.org/github/atulsingh0/Python/tree/master/Learn/
+
 [https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb
+
 
 # Git
 
