@@ -120,5 +120,6 @@ lambda
 [https://python-graph-gallery.com
 [https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/
 [http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+[https://www.linkedin.com/pulse/machine-learning-whats-inside-box-randy-lao/?published=t
 
 
