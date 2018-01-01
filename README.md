@@ -146,4 +146,5 @@ lambda
 [https://www.youtube.com/user/sachinabey?sub_confirmation=1
 [https://www.youtube.com/playlist?list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6
 [https://scipy2016.scipy.org/ehome/146062/332966/
+[https://goo.gl/dNPc5P
 
