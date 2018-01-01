@@ -3,7 +3,7 @@ Making rigorous AI education accessible and free, using materials used at top un
 
 https://nurture.ai/ai-saturdays 
 
-## Teachng Material
+## Teachng Material/Personal Notes
 Preparation Session for the upcoming AI Saturdays regular sessions. Topics include
 1) Basic Python programming
 2) Linear Algebra
