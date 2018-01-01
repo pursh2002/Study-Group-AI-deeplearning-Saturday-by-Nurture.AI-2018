@@ -105,6 +105,14 @@ lambda
 
 [https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb
 
+[https://github.com/pursh2002/Python
+
+[https://www.youtube.com/watch?v=oD4IvH-Talo
+
+[https://www.datacamp.com/community/tutorials/python-dictionary-comprehension
+
+[https://www.datacamp.com/community/tutorials/python-data-type-conversion
+
 
 ## Git
 
