@@ -14,6 +14,8 @@ Preparation Session for the upcoming AI Saturdays regular sessions. Topics inclu
 
 [https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
+[[https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
+
 [https://www.deeplearning.ai)
 
 [http://www.fast.ai
@@ -50,7 +52,6 @@ Pytorch by facebook
 tensorflow by google 
 
 ## install on gpu the fast.ai which has all the libraries(anaconda,jup)
-[https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 
 [https://github.com/TomLous/practical-deep-learning
 
