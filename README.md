@@ -83,6 +83,12 @@ tensorflow by google
 
 [https://medium.com/ai-saturdays/the-windows-guide-to-setting-up-a-google-cloud-instance-for-the-fast-ai-course-fe2d61f098ca
 
+## install docker 
+
+https://github.com/sachinruk/deepschool.io
+
+
+
 ## Python Basics 
 
 groupby, 
@@ -133,4 +139,5 @@ lambda
 [http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
 [https://www.linkedin.com/pulse/machine-learning-whats-inside-box-randy-lao/?published=t
 [https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf
+[https://www.youtube.com/user/sachinabey?sub_confirmation=1
 
