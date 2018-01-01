@@ -120,6 +120,10 @@ lambda
 
 [https://www.datacamp.com/community/tutorials/python-data-type-conversion
 
+[https://www.youtube.com/watch?v=Huz6bS0uLm4
+
+[https://goo.gl/4KgVff
+
 
 ## Git
 
@@ -140,4 +144,6 @@ lambda
 [https://www.linkedin.com/pulse/machine-learning-whats-inside-box-randy-lao/?published=t
 [https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf
 [https://www.youtube.com/user/sachinabey?sub_confirmation=1
+[https://www.youtube.com/playlist?list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6
+[https://scipy2016.scipy.org/ehome/146062/332966/
 
