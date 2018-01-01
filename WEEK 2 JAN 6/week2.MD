@@ -1,4 +1,5 @@
-Session 1: Practical Deep Learning
+# WEEK 2
+## Session 1: Practical Deep Learning
 
 [https://github.com/fastai/fastai
 [[http://www.fast.ai
@@ -15,7 +16,7 @@ We will watch the lectures as a group, stop the video for discussion at any poin
 breakout into small groups for the in-lecture exercises – removing any obstacles along the way, making sure that you 
 can progress through the course confidently if you stick with us – that’s our commitment to you for your time investment!
 
-Session 2: Deep Learning Theory
+## Session 2: Deep Learning Theory
 
 [https://stats385.github.io
 
@@ -28,7 +29,7 @@ it, to make the best use of everyone’s time. You can help each other prepare b
 parts of the papers using the Nurture.AI platform’s highlight-commenting function.
 
 
-Session 3a: Reinforcement Learning
+## Session 3a: Reinforcement Learning
 
 [http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 [[http://rll.berkeley.edu/deeprlcourse/
@@ -38,7 +39,7 @@ CS294 Deep Reinforcement Learning. We will view the lecture as a group, stop the
 has a question, and breakout into small groups to discuss papers mentioned. We will then end off with code practice on 
 implementing the techniques covered in the session, which can then be completed over the week.
 
-Session 3b: Convolutional Neural Networks for Visual Recognition
+## Session 3b: Convolutional Neural Networks for Visual Recognition
 
 [http://cs231n.stanford.edu
 [[
@@ -52,7 +53,7 @@ visualisation and adversarial training.For ease of the facilitator in-charge’s
 participants are encouraged to read the papers beforehand and post questions on specific parts of the papers using the Nurture.
 ai platform’s highlight-commenting function.
 
-Session 3c: Natural Language Processing with Deep Learning
+## Session 3c: Natural Language Processing with Deep Learning
 
 [http://web.stanford.edu/class/cs224n/
 
