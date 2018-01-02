@@ -2,8 +2,13 @@
 ## Session 1: Practical Deep Learning
 
 [https://github.com/fastai/fastai
+
+[https://goo.gl/NNRmQa
+
 [[http://www.fast.ai
+
 [[[ 1. https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+
 [[[[https://github.com/sachinruk/deepschool.io
 
 Using the free and proven Fast.ai materials, this is perfect for beginners in deep learning and machine learning, 
@@ -20,6 +25,7 @@ can progress through the course confidently if you stick with us – that’s ou
 ## Session 2: Deep Learning Theory
 
 [https://stats385.github.io
+
 [https://goo.gl/fzHcYM
 
 We start off with materials from the Stanford STAT385 course on Theories of Deep Learning. For this particular session, 
