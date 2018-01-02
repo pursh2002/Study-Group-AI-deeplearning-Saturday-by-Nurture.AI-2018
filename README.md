@@ -51,6 +51,9 @@ Preparation Session for the upcoming AI Saturdays regular sessions. Topics inclu
 Pytorch by facebook
 tensorflow by google 
 
+### install at google cloud
+[https://towardsdatascience.com/running-jupyter-notebook-in-google-cloud-platform-in-15-min-61e16da34d52
+
 ## install on gpu the fast.ai which has all the libraries(anaconda,jup)
 
 [https://github.com/TomLous/practical-deep-learning
