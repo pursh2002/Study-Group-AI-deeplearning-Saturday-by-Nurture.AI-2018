@@ -1,15 +1,17 @@
 # WEEK 2
 ## Session 1: Practical Deep Learning
 
-[https://github.com/fastai/fastai
+[http://course.fast.ai
 
-[https://goo.gl/NNRmQa
+[[https://github.com/fastai/fastai
 
-[[http://www.fast.ai
+[[[https://goo.gl/NNRmQa
 
-[[[ 1. https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+[[[[http://www.fast.ai
 
-[[[[https://github.com/sachinruk/deepschool.io
+[[[[[ 1. https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+
+[[[[[[https://github.com/sachinruk/deepschool.io
 
 Using the free and proven Fast.ai materials, this is perfect for beginners in deep learning and machine learning, 
 with some prior Python programming experience and high school math knowledge – and it’d get you to a stage where 
