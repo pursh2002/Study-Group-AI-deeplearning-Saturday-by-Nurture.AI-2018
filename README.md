@@ -90,7 +90,11 @@ tensorflow by google
 
 https://github.com/sachinruk/deepschool.io
 
+## install crestle
+[https://www.youtube.com/watch?v=IPBSB1HLNLo&feature=youtu.be
 
+## paperspace 
+https://www.paperspace.com
 
 ## Python Basics 
 
