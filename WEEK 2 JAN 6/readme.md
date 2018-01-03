@@ -3,6 +3,8 @@
 
 [http://course.fast.ai
 
+[[http://forums.fast.ai/t/welcome-to-part-1-v2/5787
+
 [[https://github.com/fastai/fastai
 
 [[[https://goo.gl/NNRmQa
