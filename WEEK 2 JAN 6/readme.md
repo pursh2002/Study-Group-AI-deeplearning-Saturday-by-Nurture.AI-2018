@@ -5,6 +5,8 @@
 
 [[http://forums.fast.ai/t/welcome-to-part-1-v2/5787
 
+[https://goo.gl/yLkdKx--- videos jeremy
+
 [[https://github.com/fastai/fastai
 
 [[[https://goo.gl/NNRmQa
