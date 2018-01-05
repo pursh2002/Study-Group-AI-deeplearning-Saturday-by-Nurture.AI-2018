@@ -90,3 +90,26 @@ Books:
     5. Artificial Intelligence
     6. Deep LearningOpen options for Shujian L.’s post
 172 Likes 172 Likes on Qian Wang’s post  
+
+
+
+
+
+
+Yesterday Kate did a post with the question: "Do you know some sources where I can find uncleaned data to get hands- on practice with data cleaning and preprocessing?" 
+
+As data scientists we care about extracting the best information out of our data. Data is the new soil, you have to get in and get your hands dirty, without cleaning and preparing it, it just useless.
+
+Cleaning and preparing is the most time-consuming and least enjoyable data science task, but one of the most important ones. No one can start a data science, machine learning or data driven solution without being sure that the data that they’ll be consuming is at its optimal stage.
+
+Even though almost all data in the industry is "dirty", most of the data we use to practice and study is not in this state, so the problem of cleaning data become a bigger one when you have to wait to get a job to practice that. 
+
+To help you get started and understand what is "dirty data" this is some data to practice:
+
+https://lnkd.in/e9dV-wz
+https://lnkd.in/eAw7MgJ
+https://lnkd.in/e24-bcr
+https://lnkd.in/egqAGKt
+
+I recommend that you clean this data with my package Optimus.
+
