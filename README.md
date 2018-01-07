@@ -38,6 +38,8 @@ Preparation Session for the upcoming AI Saturdays regular sessions. Topics inclu
 13. Eigenvectors and eigenvalues | Essence of linear algebra, chapter 10
 14. Abstract vector spaces | Essence of linear algebra, chapter 11
 
+[https://www.youtube.com/watch?v=wa0GRQCcOpI&feature=youtu.be
+
 ## AWS
 * github student pack
 * AWS student 9 hours/hour
