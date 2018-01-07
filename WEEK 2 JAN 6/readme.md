@@ -1,4 +1,9 @@
 # WEEK 2
+
+## Intro
+
+[http://forums.fast.ai/t/wiki-thread-intro-workshop/6537
+
 ## Session 1: Practical Deep Learning
 
 [http://course.fast.ai
