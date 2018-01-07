@@ -91,7 +91,105 @@ beforehand and post questions on specific parts of the papers using the Nurture.
 
 
 
+class session 
 
+We are not going to be discussing Stats 385 Deep Learning Theory Couse as it requires a great deal of familiarity with Multiple Deep Learning concepts which most of the members lack. Further we feel that it wont add any value unless you plan to dive into academia. (If you are still interested to have it please contact us )
+
+***Important !! ***
+Please fill the Feedback and Attendance form before you continue reading the post. Your feedback will give us valuable information in order to make your learning experience better.
+
+Feedback Link : https://goo.gl/forms/93djxTmhgTFbfUhp1
+
+*** Lecture Videos Discussed: ***
+
+Introductory Workshop : (For Beginners)
+
+    Video : https://youtu.be/wa0GRQCcOpI
+
+    Wiki : http://forums.fast.ai/t/wiki-thread-intro-workshop/6537
+
+Fast.ai Lesson 1 :
+
+    Video : https://youtu.be/IPBSB1HLNLo
+
+    Wiki : http://forums.fast.ai/t/wiki-lesson-1/9398/6
+    
+*** Homework for Next Week: ***
+
+Fast.ai Lesson 2 :
+
+    Video : https://youtu.be/JNxcznsrRb8
+
+    Wiki : http://forums.fast.ai/t/wiki-lesson-2/9399
+
+CS231n : (Mandatory for guys interested in Computer Vision)
+    Lect 1 : https://www.youtube.com/watch?v=vT1JzLTH4G4 (Recommended for Beginners)
+    Lect 2 : https://www.youtube.com/watch?v=OoUX-nOEjG0
+    Lect 3 : https://www.youtube.com/watch?v=h7iBpEHGVNc
+
+CS224d : (Mandatory for guys interested in NLP)
+
+
+    Lect 1 : https://www.youtube.com/watch?v=OQQ-W_63UgQ ( Recommended for Beginners)
+
+    Lect 2 : https://www.youtube.com/watch?v=ERibwqs9p38
+
+Reinforcement Learning: Will be discussed based on the response from the upcoming meetup.
+
+Assignments/Tasks
+
+
+
+
+Task 1 : Multi-Class Classification : (Trashnet)
+
+    Link :  https://github.com/garythung/trashnet
+
+    Dataset Link: https://drive.google.com/drive/folders/0B3P9oO5A3RvSUW9qTG11Ul83TEE
+    
+    Use the Dataset-Resized.zip for the dataset.
+    Please Compare your performance with the authors performance. Write a Brief description about how you did it ?
+Task 2 : Theory Questions
+
+1) Similarity and Difference Between Domain Adaptation and Transfer Learning?
+
+2) What is Bias? How does it affect the performance of the model?
+
+3) How does lr_find() work ? (If Interested)
+
+For GPU Access:
+
+1)PaperSpace : (Temporary Solution)
+
+Sign up : Use the following Credits :
+
+    FASTAI15
+
+    NIPSCHALLENGE15
+
+    Use someone's referral code you get 10USD extra. Try to share your referral link with others through slack and ask someone to use yours :stuck_out_tongue:.
+
+    Setup Help : http://forums.fast.ai/t/paperspace-setup-help/9290/48
+
+2) Google GCP : Credit Card Required
+
+    Article : https://medium.com/@howkhang/ultimate-guide-to-setting-up-a-google-cloud-machine-for-fast-ai-version-2-f374208be43
+
+Note :
+
+1) The Wiki page will contain solution to most of the commonly faced problems. Kindly go through them before you ask any questions.
+
+2) Please watch the videos well in advance and if possible one of the participants can summarize their understandings and findings during the Meetup (Contact me if Interested)
+
+3) Do Sign up in Fast.ai forums (http://forums.fast.ai/) and AI Saturdays Forum (https://ai6forums.nurture.ai/)
+
+4) Please post your questions on AI Saturdays Forum as discussed in General Channel to get faster response.
+
+5) I have also included a poll in the Feedback so based on the votes i might add one more video if required.
+
+6) Please use your GPU Credits only when you do heavy training and shut it down whenever not in use.
+
+7) If you plan to work on local machine please have pre-trained weights and dataset downloaded.
 
 
 
