@@ -71,6 +71,8 @@ ai platform’s highlight-commenting function.
 
 [http://web.stanford.edu/class/cs224n/
 
+https://github.com/stanfordnlp/cs224n-winter17-notes
+
 Covering the material in Stanford’s CS224n Winter 2017 course taught by Professor Christopher Manning and Richard Socher 
 (Chief Scientist of Salesforce), we will take the first 1.5 hours to view and discuss the lecture together. We will take 
 another half an hour to discuss the specifics of the paper readings for the week and clarify questions. The last hour will 
