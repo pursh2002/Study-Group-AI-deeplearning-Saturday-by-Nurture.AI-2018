@@ -162,4 +162,5 @@ https://github.com/ShichenLiu/CondenseNet#usage--- condensenet
 https://github.com/stanfordnlp/cs224n-winter17-notes--stanford notes cs224
 https://github.com/Nasdin/AISaturdayTutorials-- simplelearning q learn
 https://www.deeplearning.ai
+http://neuralnetworksanddeeplearning.com -- neuralnet book
 
