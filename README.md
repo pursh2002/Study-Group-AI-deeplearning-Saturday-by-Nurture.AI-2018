@@ -158,9 +158,10 @@ lambda
 [https://goo.gl/dNPc5P
 [https://github.com/Nasdin/AISaturdayTutorials--reinforsment learning
 [https://www.youtube.com/watch?v=q7K_As5k1fc&t=7s -- bitcoin predection using lstm
-https://github.com/ShichenLiu/CondenseNet#usage--- condensenet
-https://github.com/stanfordnlp/cs224n-winter17-notes--stanford notes cs224
-https://github.com/Nasdin/AISaturdayTutorials-- simplelearning q learn
-https://www.deeplearning.ai
-http://neuralnetworksanddeeplearning.com -- neuralnet book
+[https://github.com/ShichenLiu/CondenseNet#usage--- condensenet
+[https://github.com/stanfordnlp/cs224n-winter17-notes--stanford notes cs224
+[https://github.com/Nasdin/AISaturdayTutorials-- simplelearning q learn
+[https://www.deeplearning.ai
+[http://neuralnetworksanddeeplearning.com -- neuralnet book
+[https://cloud.google.com/blog/big-data/2016/07/understanding-neural-networks-with-tensorflow-playground
 
