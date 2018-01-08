@@ -156,5 +156,10 @@ lambda
 [https://www.youtube.com/playlist?list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6
 [https://scipy2016.scipy.org/ehome/146062/332966/
 [https://goo.gl/dNPc5P
-
+[https://github.com/Nasdin/AISaturdayTutorials--reinforsment learning
+[https://www.youtube.com/watch?v=q7K_As5k1fc&t=7s -- bitcoin predection using lstm
+https://github.com/ShichenLiu/CondenseNet#usage--- condensenet
+https://github.com/stanfordnlp/cs224n-winter17-notes--stanford notes cs224
+https://github.com/Nasdin/AISaturdayTutorials-- simplelearning q learn
+https://www.deeplearning.ai
 
