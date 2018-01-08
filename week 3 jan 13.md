@@ -9,20 +9,20 @@ focused towards demo and hands on Coding !) while discussing with peers.
 Video : [https://youtu.be/JNxcznsrRb8
 Wiki : [http://forums.fast.ai/t/wiki-lesson-2/9399
 
-2) CS231n : (Mandatory for guys interested in Computer Vision)
+## 2) CS231n : (Mandatory for guys interested in Computer Vision)
 Lect 1 : [https://www.youtube.com/watch?v=vT1JzLTH4G4 (Recommended for Beginners)
 Lect 2 : [https://www.youtube.com/watch?v=OoUX-nOEjG0
 Lect 3 : [https://www.youtube.com/watch?v=h7iBpEHGVNc
 
-3) CS224d : (Mandatory for guys interested in NLP)
+## 3) CS224d : (Mandatory for guys interested in NLP)
 Lect 1 : [https://www.youtube.com/watch?v=OQQ-W_63UgQ ( Recommended for Beginners)
 Lect 2 : [https://www.youtube.com/watch?v=ERibwqs9p38
 
-4) Reinforcement Learning: Will be discussed based on the response from the upcoming meetup. For ease of the facilitator 
+## 4) Reinforcement Learning: Will be discussed based on the response from the upcoming meetup. For ease of the facilitator 
 in-charge’s preparation for any particular week, participants are encouraged to watch the lectures beforehand and post 
 questions on specific parts of the lectures using the Nurture.ai platform’s highlight-commenting function.
 
-Assignments/Tasks
+# Assignments/Tasks
 
 Task 1 : Multi-Class Classification : (Trashnet)
 
