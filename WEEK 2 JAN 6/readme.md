@@ -193,3 +193,15 @@ Note :
 
 
 
+## Lesson 1  on jupyter notebook
+
+paperspace code-- http://files.fast.ai/setup/paperspace
+
+### Image classification with Convolutional Neural Networks
+
+[Cyclical Learning Rates for Training Neural Networks Paper--- https://arxiv.org/pdf/1506.01186.pdf
+
+[https://www.youtube.com/watch?time_continue=28&v=bNU1XJKKh98
+
+
+
