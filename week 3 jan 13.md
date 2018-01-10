@@ -3,6 +3,7 @@ one of them or none, it’s totally up to you! If you don’t want to attend the
 day there will be open hacking on creating open-source code implementations of the top research paper 
 pre-prints that week. Or use that time to catch-up on lectures and readings (Afternoon sessions will be more
 focused towards demo and hands on Coding !) while discussing with peers.
+[http://forums.fast.ai/t/wiki-lesson-2/9399
 
 # Session 1: Video Lecture Synopsis and Discussion
 ## 1) Practical Deep Learning (Fast.ai) : Lecture 2
