@@ -34,6 +34,70 @@ Use the Dataset-Resized.zip for the dataset.
 Please Compare your performance with the authors performance. Write a Brief description about how you 
 did it ? Task 2 : Theory Questions
 
+
 1) Similarity and Difference Between Domain Adaptation and Transfer Learning?
 2) What is Bias? How does it affect the performance of the model?
 3) How does lr_find() work ? (If Interested)
+
+
+cycle multiplyer ------
+
+Process 
+
+input data 
+data agumentation 
+find learning rate 
+pre compute = true 
+train last layer 
+
+computer vision is amalgation of many domain,it works on statistical computation 
+
+CNN --- segmentation task 
+
+## Image classification pipeline 
+
+challanges: view point varation , background variation 
+
+collect a dataset of images and label
+
+
+nearest neighbour classifier - distance metric to compare distance 
+
+value of k
+distance metric
+l2 eculadian distance 
+
+setting hyperparameters (not recommended)
+choose hyperparameters
+split train and test choose hypermeters 
+split data into train val and test  choose parameter on value and evaluate on test 
+cross validation  (does not work always) not good for timeseries 
+
+k-nearest on image never used ---curse of dimensanality 
+
+In a normal 
+
+### parameteric approach 
+
+image ----f(x,w)----10 numbers giving class scores 
+
+linear classifiers 
+
+interpreating a linear classifier -- hard 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
