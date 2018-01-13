@@ -86,6 +86,38 @@ linear classifiers
 interpreating a linear classifier -- hard 
 
 
+## NLP 
+
+use WordNET
+
+word2vec 
+
+king - man + women = queen 
+
+huge splash in NLP world 
+word2vec : learn word vector vm from its 
+
+there are two vectors for every words 
+input and output 
+
+NLP usage -- chatbots(neural network RNN), google search,sentiment analysis(bag of words), question and answering(regular expression)
+
+words are made of morphemes 
+parsing for sentence structure 
+
+earlier alg on bag of words  are discarded 
+
+how do we reperesent the meaning of words 
+
+how do we have usable meaning in a computer 
+
+use wordnet a resource containing lists of synonym sets and hypernyms(its arelationship)
+
+problem with wordnet ---
+
+
+
+
 
 
 
