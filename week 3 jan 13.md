@@ -118,9 +118,10 @@ problem with wordnet ---
 # feature engeneering for image ....
 why do we do normalization ?
 
+Whats the best activation function?
 transformation with normalization 
 resizing 
-tunning the hyperparameter
+tunning the hyperparameter--- [http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html
 How to choose hyperparameter?
   grid based approach
   split the data into train and test 80 to 20
@@ -128,6 +129,16 @@ How to choose hyperparameter?
   where do we use crossvalidation 
   small datasets
 
+how do u reduce overfitting 
+regularization --- add penalty to the weight 
+
+what u do when there is underfitting?---- [https://www.geeksforgeeks.org/underfitting-and-overfitting-in-machine-learning/
+
+add more data....
+
+* mila labs --- pytorch ---
+ https://github.com/mila-udem/welcome_tutorials/tree/master/pytorch
+ https://github.com/mila-udem/welcome_tutorials/blob/master/pytorch/1.%20The%20Torch%20Tensor%20Library%20and%20Basic%20Operations.ipynb
 
 
 
