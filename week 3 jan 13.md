@@ -115,6 +115,19 @@ use wordnet a resource containing lists of synonym sets and hypernyms(its arelat
 
 problem with wordnet ---
 
+# feature engeneering for image ....
+why do we do normalization ?
+
+transformation with normalization 
+resizing 
+tunning the hyperparameter
+How to choose hyperparameter?
+  grid based approach
+  split the data into train and test 80 to 20
+  
+  where do we use crossvalidation 
+  small datasets
+
 
 
 
