@@ -139,6 +139,8 @@ add more data....
 * mila labs --- pytorch ---
  https://github.com/mila-udem/welcome_tutorials/tree/master/pytorch
  https://github.com/mila-udem/welcome_tutorials/blob/master/pytorch/1.%20The%20Torch%20Tensor%20Library%20and%20Basic%20Operations.ipynb
+ 
+ * hyperparameter-optimization----[https://ai6forums.nurture.ai/t/best-practices-for-hyperparameter-optimization/42
 
 
 
