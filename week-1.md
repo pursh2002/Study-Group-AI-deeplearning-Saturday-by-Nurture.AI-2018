@@ -136,6 +136,7 @@ lambda
 [https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb
 
 [https://kantologist.github.io/Tutorials/#!/
+[http://lineardata.net/the-ultimate-guide-to-numpy-in-python/
 
 
 ## Git
