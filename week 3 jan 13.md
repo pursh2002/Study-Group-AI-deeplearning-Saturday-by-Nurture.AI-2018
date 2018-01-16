@@ -9,6 +9,7 @@ focused towards demo and hands on Coding !) while discussing with peers.
 ## 1) Practical Deep Learning (Fast.ai) : Lecture 2
 Video : [https://youtu.be/JNxcznsrRb8
 Wiki : [http://forums.fast.ai/t/wiki-lesson-2/9399
+[https://towardsdatascience.com/neural-networks-with-google-colaboratory-artificial-intelligence-getting-started-713b5eb07f14
 
 ## 2) CS231n : (Mandatory for guys interested in Computer Vision)
 
