@@ -118,3 +118,47 @@ I recommend that you clean this data with my package Optimus.
 [https://dzone.com/articles/create-cross-platform-voice-applications-with-jovo
 
 [https://cloud.google.com/blog/big-data/2016/07/understanding-neural-networks-with-tensorflow-playground
+
+
+---
+⚠️ Importance of GitHub Account:
+GitHub allows you to contribute, share, and learn from an open source community. It's a great way to showcase your source code projects
+
+🙌🏼 Have a GitHub Profile?
+Share it with us! Would love to see it!
+
+🐾 Steps:
+1. Create your account on GitHub
+2. Choose a topic to learn (Ex: Machine Learning, Visual, etc..)
+3. Follow the specific user
+4. Clone the codes to your local machine
+5. Learn, Practice, and Have Fun!
+
+---
+☁️ Data Visualization
+1. Mike Bostock (D3, Data Visualisation)
+https://lnkd.in/gSvKV-6
+2. Randy Olson (Python – Data Analysis, Matplotlib, Bokeh)
+https://github.com/rhiever
+
+☁️ Big Data & Spark 
+ Favio Vázquez
+https://lnkd.in/gxBU_DE
+
+☁️ Python Machine Learning
+Sebastian Raschka
+https://github.com/rasbt
+
+☁️ R
+1. Jeff Leek
+https://github.com/jtleek
+ 2. David Langer 
+https://github.com/EasyD
+
+☁️ AI & Deep Learning
+1. Michael Nielsen
+https://lnkd.in/gpyTUwu
+ 2. Matthew Blondel 
+https://lnkd.in/gYhHw9N
+ 3. Tarry Singh
+https://lnkd.in/gUcDTkZ
