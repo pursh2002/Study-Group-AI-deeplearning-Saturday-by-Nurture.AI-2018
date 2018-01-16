@@ -11,11 +11,13 @@ Video : [https://youtu.be/JNxcznsrRb8
 Wiki : [http://forums.fast.ai/t/wiki-lesson-2/9399
 
 ## 2) CS231n : (Mandatory for guys interested in Computer Vision)
+
 Lect 1 : [https://www.youtube.com/watch?v=vT1JzLTH4G4 (Recommended for Beginners)
 Lect 2 : [https://www.youtube.com/watch?v=OoUX-nOEjG0
 Lect 3 : [https://www.youtube.com/watch?v=h7iBpEHGVNc
 
 ## 3) CS224d : (Mandatory for guys interested in NLP)
+[https://github.com/pursh2002/CNN-for-Sentence-Classification-in-Keras
 Lect 1 : [https://www.youtube.com/watch?v=OQQ-W_63UgQ ( Recommended for Beginners)
 Lect 2 : [https://www.youtube.com/watch?v=ERibwqs9p38
 
@@ -142,9 +144,6 @@ add more data....
  
  * hyperparameter-optimization----[https://ai6forums.nurture.ai/t/best-practices-for-hyperparameter-optimization/42
 
-
-
-
 # summary 
 
 1)Lesson 1 Recap: Major Takeaways : 
@@ -239,16 +238,11 @@ Pinned
 [11:28] 
 ***Next Meetup Agenda:*** UPDATED 
 
-
-
-
 1)Fast.ai : Lesson 3 :
 
     Video: https://youtu.be/9C06ZPF8Uuc
 
-    Forum Wiki :http://forums.fast.ai/t/wiki-lesson-3/9401
-
-    
+    Forum Wiki :http://forums.fast.ai/t/wiki-lesson-3/9401 
 
 2)cs231n : http://cs231n.stanford.edu/2017/syllabus.html
 
@@ -265,7 +259,6 @@ Pinned
         Slides:http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture4.pdf
 
     Course Notes : http://cs231n.github.io/
-
     
 
 3)cs224d: http://cs224d.stanford.edu/syllabus.html
