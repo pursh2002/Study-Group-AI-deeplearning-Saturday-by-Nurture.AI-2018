@@ -138,7 +138,9 @@ lambda
 [https://kantologist.github.io/Tutorials/#!/
 [http://lineardata.net/the-ultimate-guide-to-numpy-in-python/
 
+# SQL
 
+https://www.youtube.com/watch?v=7rO3P9YGLmQ&index=31&list=PLMrTtbMO6mv_Hn7DvpO62RxyxodHhkQda&utm_content=buffer7e1fb&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
 ## Git
 
 [https://www.learnenough.com/git-tutorial
