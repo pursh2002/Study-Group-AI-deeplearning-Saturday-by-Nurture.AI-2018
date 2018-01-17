@@ -147,7 +147,7 @@ https://www.youtube.com/watch?v=7rO3P9YGLmQ&index=31&list=PLMrTtbMO6mv_Hn7DvpO62
 
 ## Kaggle
 
-[https://www.kaggle.com/learn/deep-learning
+[https://www.kaggle.com/learn/overview
 
 ## Articals
 
