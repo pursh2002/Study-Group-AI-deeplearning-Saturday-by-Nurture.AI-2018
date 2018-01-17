@@ -176,4 +176,5 @@ https://www.youtube.com/watch?v=7rO3P9YGLmQ&index=31&list=PLMrTtbMO6mv_Hn7DvpO62
 [http://neuralnetworksanddeeplearning.com -- neuralnet book
 [https://cloud.google.com/blog/big-data/2016/07/understanding-neural-networks-with-tensorflow-playground
 [https://www.youtube.com/watch?v=weYHuyyEtyU
+[https://ml.berkeley.edu/blog/
 
