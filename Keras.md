@@ -1,18 +1,18 @@
 * (reading the data)
-import numpy as np
+- import numpy as np
 * (building the model)
-from keras.layers import Dense 
+- from keras.layers import Dense 
 from keras.models import Sequential
 * (reads the data to find the number of nodes)
-predictors = np.loadtxt(‘predictors_data.csv’,delimiter=‘,’)
+- predictors = np.loadtxt(‘predictors_data.csv’,delimiter=‘,’)
 * (reads the data to find the number of nodes in the input layer that stored as cols how many cols specifies the nodes)
-n_cols = predictors.shape[1]
+- n_cols = predictors.shape[1]
 
 * model building
-model = Sequential() (easier ways to build the model)
+- model = Sequential() (easier ways to build the model)
 sequential requires weights or connections one layer after another in network diagram
 * start laying the layers using add , standard layer in known as dense layer because all the nodes in previous nodes connect to current layers), u may specify layers which are not dense ) in each dense layer u can specify the number of nodes=100 in first argument and activation  and input_shape=(n_cols,)(specifying , as any number of rows after col or any number of data points)
-model.add(Dense(100,activation=‘relu’,input_shape = (n_cols,)))
+- model.add(Dense(100,activation=‘relu’,input_shape = (n_cols,)))
 
 model.add(Dense(100,activation =‘relu’))
 
