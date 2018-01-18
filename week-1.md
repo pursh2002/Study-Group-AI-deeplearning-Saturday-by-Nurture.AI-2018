@@ -138,6 +138,7 @@ lambda
 [https://kantologist.github.io/Tutorials/#!/
 [http://lineardata.net/the-ultimate-guide-to-numpy-in-python/
 [https://data-flair.training/blogs/python-variables-and-data-types/
+[https://www.cybrhome.com/topic/python-tutorials --- all in one
 
 # SQL
 
