@@ -1,3 +1,61 @@
+
+
+# Here's a simple 8 Step guide to learn #DataScience and #MachineLearning with Python: 
+
+---START---
+
+✅ Step 1
+Download and Install Anaconda
+https://lnkd.in/gWHY_ij
+
+✅ Step 2
+a. Learn the basics of Python (Lists, Tuples, Dictionaries, etc)
+b. Understand the basics of data structures and algorithms 
+https://lnkd.in/gYKnJWN
+
+
+---Beginner Level Completed---
+
+✅ Step 3
+a. Understand the use of regular expressions
+b. Do more practice problems in Python
+Hacker Rank: https://lnkd.in/gEufBUu
+Codeacademy: https://lnkd.in/gGQ7cuv
+
+✅ Step 4
+Learn the scientific libraries (NumPy, SciPy, Pandas)
+Pandas: https://lnkd.in/g4DFNpJ
+
+✅ Step 5
+Data Visualization (Matplotlib, plotly, seaborne, etc…)
+Matplotlib: https://lnkd.in/g_3fx_6
+Python Gallery: python-graph-gallery.com
+
+---Intermediate Level Done---
+
+✅ Step 6
+Machine Learning with Scikit-Learn
+Machine Learning in 20min: https://lnkd.in/g-Su_um
+Skcikit-Learn Tutorial: https://lnkd.in/gSThdRD
+
+✅ Step 7:
+Practice your machine learning skills
+Kaggle Machine Learning Tutorial: https://lnkd.in/gT5nNwS
+
+
+---Advanced Level Completed---
+
+✅ Step 8:
+Deep Learning
+Deeplearning.ai (Andrew Ng): https://lnkd.in/ge5CK-u
+Kaggle Deep Learning Tutorial: https://lnkd.in/gHKWM5m
+
+
+---Expert Level  Completed---
+
+🎉  CELEBRATE 🎉
+
+
 # the
 [https://www.kdnuggets.com/2018/01/top-10-ted-talks-data-scientists-machine-learning.html?utm_content=buffer3eef0&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 [https://medium.com/@don_khozzy/14-books-i-read-in-2017-5b0626aab0df
