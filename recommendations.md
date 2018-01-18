@@ -220,3 +220,16 @@ https://lnkd.in/gpyTUwu
 https://lnkd.in/gYhHw9N
  3. Tarry Singh
 https://lnkd.in/gUcDTkZ
+
+
+A lioness hired a data scientist (fox) to help find her prey. 
+
+The fox had access to a rich #DataWarehouse, which consisted of data about the jungle, its creatures and events happening in the jungle.
+
+On its first day, the fox presented lioness with a report summarizing where all she found her prey in the last six months, which helped lioness decide where to go hunting next. This is an example of #DescriptiveAnalytics.
+
+Next, the fox estimated the probability of finding a given prey at a certain place and time, using advanced ML techniques. This is #PredictiveAnalytics. Also, it identified routes in the jungle for the lioness to take to minimize her efforts in finding her prey. This is an example of #Optimization.
+
+Finally, based on above models, the fox got trenches dug at various points in the jungle so that the prey got caught automatically. This is #Automation.
+
+Descriptive Analytics -> Predictive Analytics / Optimization -> Automation. This is the #AnalyticsLifeCycle.
