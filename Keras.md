@@ -1,10 +1,12 @@
-import numpy as np(reading the data)
-from keras.layers import Dense (building the model)
-from keras.models import Sequential(building the model)
-
-predictors = np.loadtxt(‘predictors_data.csv’,delimiter=‘,’)(reads the data to find the number of nodes)
-
-n_cols = predictors.shape[1](reads the data to find the number of nodes in the input layer that stored as cols how many cols specifies the nodes)
+* (reading the data)
+import numpy as np
+* (building the model)
+from keras.layers import Dense 
+from keras.models import Sequential
+* (reads the data to find the number of nodes)
+predictors = np.loadtxt(‘predictors_data.csv’,delimiter=‘,’)
+* (reads the data to find the number of nodes in the input layer that stored as cols how many cols specifies the nodes)
+n_cols = predictors.shape[1]
 
 * model building
 model = Sequential() (easier ways to build the model)
