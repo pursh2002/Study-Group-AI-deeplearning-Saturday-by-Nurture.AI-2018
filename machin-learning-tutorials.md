@@ -1,3 +1,4 @@
+# [machin 30 projectsp(https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7)
 # Top-down learning path: Machine Learning for Software Engineers
 
 <p align="center">
