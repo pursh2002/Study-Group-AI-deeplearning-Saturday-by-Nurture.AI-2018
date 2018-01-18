@@ -1,3 +1,7 @@
 [https://web.stanford.edu/class/cs20si/
 
-AI inference library based on mbed and TensorFlow -- https://github.com/utensor/utensor
+* AI inference library based on mbed and TensorFlow -- [https://github.com/utensor/utensor
+
+* tutorial ---http://cv-tricks.com/artificial-intelligence/deep-learning/deep-learning-frameworks/tensorflow-tutorial/
+
+
