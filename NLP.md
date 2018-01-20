@@ -4,3 +4,4 @@
 [https://www.coursera.org/learn/natural-language-processing---University of Michigan
 [https://web.stanford.edu/~jurafsky/slp3/---Speech and Language Processing
 [https://www.tensorflow.org/versions/master/tutorials/word2vec
+[https://github.com/pursh2002/nlp-datasets----NLP datasets
