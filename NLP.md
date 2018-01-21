@@ -5,5 +5,6 @@
 [https://web.stanford.edu/~jurafsky/slp3/---Speech and Language Processing
 [https://www.tensorflow.org/versions/master/tutorials/word2vec
 [https://github.com/pursh2002/nlp-datasets----NLP datasets
+[https://www.kdnuggets.com/2017/12/general-approach-preprocessing-text-data.html?utm_content=buffer041d5&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 
 [https://www.linkedin.com/pulse/chapter-9-natural-language-processing-madhu-sanjeevi-mady-/
