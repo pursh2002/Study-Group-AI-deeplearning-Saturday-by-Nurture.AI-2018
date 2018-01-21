@@ -2,60 +2,6 @@
 
 # Here's a simple 8 Step guide to learn #DataScience and #MachineLearning with Python: 
 
----START---
-
-✅ Step 1
-Download and Install Anaconda
-https://lnkd.in/gWHY_ij
-
-✅ Step 2
-a. Learn the basics of Python (Lists, Tuples, Dictionaries, etc)
-b. Understand the basics of data structures and algorithms 
-https://lnkd.in/gYKnJWN
-
-
----Beginner Level Completed---
-
-✅ Step 3
-a. Understand the use of regular expressions
-b. Do more practice problems in Python
-Hacker Rank: https://lnkd.in/gEufBUu
-Codeacademy: https://lnkd.in/gGQ7cuv
-
-✅ Step 4
-Learn the scientific libraries (NumPy, SciPy, Pandas)
-Pandas: https://lnkd.in/g4DFNpJ
-
-✅ Step 5
-Data Visualization (Matplotlib, plotly, seaborne, etc…)
-Matplotlib: https://lnkd.in/g_3fx_6
-Python Gallery: python-graph-gallery.com
-
----Intermediate Level Done---
-
-✅ Step 6
-Machine Learning with Scikit-Learn
-Machine Learning in 20min: https://lnkd.in/g-Su_um
-Skcikit-Learn Tutorial: https://lnkd.in/gSThdRD
-
-✅ Step 7:
-Practice your machine learning skills
-Kaggle Machine Learning Tutorial: https://lnkd.in/gT5nNwS
-
-
----Advanced Level Completed---
-
-✅ Step 8:
-Deep Learning
-Deeplearning.ai (Andrew Ng): https://lnkd.in/ge5CK-u
-Kaggle Deep Learning Tutorial: https://lnkd.in/gHKWM5m
-
-
----Expert Level  Completed---
-
-🎉  CELEBRATE 🎉
-
-
 # the
 [https://www.kdnuggets.com/2018/01/top-10-ted-talks-data-scientists-machine-learning.html?utm_content=buffer3eef0&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 [https://medium.com/@don_khozzy/14-books-i-read-in-2017-5b0626aab0df
@@ -233,3 +179,57 @@ Next, the fox estimated the probability of finding a given prey at a certain pla
 Finally, based on above models, the fox got trenches dug at various points in the jungle so that the prey got caught automatically. This is #Automation.
 
 Descriptive Analytics -> Predictive Analytics / Optimization -> Automation. This is the #AnalyticsLifeCycle.
+
+##
+Step 1: Learn Machine Learning Basics (Optional, but highly recommended)
+
+Start with Andrew Ng's Class on machine learning Machine Learning - Stanford University | Coursera. His course provides an introduction to the various Machine Learning algorithms currently out there and, more importantly, the general procedures and methods for machine learning, including data preprocessing, hyper-parameter tuning, and more.
+
+I would also recommend reading the NIPS 2015 Deep Learning Tutorial by Geoff Hinton, Yoshua Bengio, and Yann LeCun, which offers an introduction at a slightly lower level.
+
+Step 2: Dig into Deep Learning
+
+My personal learning preference is to watch lecture videos, and there are several excellent courses online. Here are few classes I especially like and can recommend:
+
+Deep learning at Oxford 2015 Taught by Nando de Freitas who expertly explains the basics, without overcomplicating it. Start with Lectures 9 if you are already familiar with Neural Networks and want to go deep. He uses Torch framework in his examples. (Videos on Youtube)
+Neural Networks for Machine Learning: Geoffrey Hinton’s class on Coursera. Hinton is an excellent researcher who demonstrated the use of generalized backpropagation algorithm and was crucial to the development of deep learning. I have utmost respect for him, but I found the delivery of this course bit unorganized. Furthermore, coursera messes up with the placement of quizzes.
+Neural Networks Class by Hugo Larochelle: Another excellent course
+Yaser Abu-Mostafa’s machine learning course: More theory if you are interested.
+If you are more into books, here are some excellent resources. Go ahead and check them out, I won’t judge.
+
+Neural Networks and Deep Learning Book by Michael Nielsen’s: Online book and has several interactive JavaScript elements to play with.
+Deep Learning Book by Ian Goodfellow, Yoshua Bengio and Aaron Courville: Bit denser but never the less a great resource
+Step 3: Pick a focus area and go deeper
+
+Identify what you are passionate about and go deeper. The field is vast, so this list is in no way a comprehensive list.
+
+Computer vision : Deep learning has transformed this area. Stanford’s CS231N course by Andrej Karpathy’s course is the best course I have come across; CS231n Convolutional Neural Networks for Visual Recognition. It teaches you the basics and up to covnets, as well as helping you to set up GPU instance in AWS. Also, check out Getting Started in Computer Vision by Mostafa S. Ibrahim
+Natural Language Processing (NLP) : Used for machine translation, question and answering, sentiment analysis. To master this field, an in-depth understanding of both algorithms and the underlying computational properties of natural languages is needed. CS 224N / Ling 284 by Christopher Manning is a great course to get started. CS224d: Deep Learning for Natural Language Processing, another Stanford class by David Socher (founder of MetaMind)is also an excellent course which goes over all the latest Deep learning research related to NLP. For more details see How do I learn Natural Language Processing?
+Memory Network (RNN-LSTM) : Recent work in combining attention mechanism in LSTM Recurrent Neural networks with external writable memory has meant some interesting work in building systems that can understand, store and retrieve information in a question & answering style. This research area got its start in Dr. Yann Lecun’s Facebook AI lab at NYU. The original paper is on arxiv: Memory Networks. There’re many research variants, datasets, benchmarks, etc that have stemmed from this work, for example, Metamind’s Dynamic Memory Networks for Natural Language Processing
+Deep Reinforcement Learning : Made famous by AlphaGo, the Go-playing system that recently defeated the strongest Go players in history. David Silver’s (Google Deepmind) Video Lectures on RL and Professor Rich Stutton’s Book is a great place to start. For a gentle introduction to LSTM see Christopher’s post on Understanding LSTM networks & Andrej Karpathy’s The Unreasonable Effectiveness of Recurrent Neural Networks
+Generative Models: While discriminatory models try to detect, identify and separate things, they end up looking for features which differentiate and do not understand data at a fundamental level. Apart from the short-term applications, generative models provide the potential to automatically learn natural features; categories or dimensions or something else entirely. Out of the three commonly used generative models — Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs) and Autoregressive models (such as PixelRNN) , GAN’s are most popular. To dig deeper read
+Original GAN paper by Ian Goodfellow et al.
+The Laplacian Adversarial Networks (LAPGAN) Paper (LAPGAN) which fixed the stability issue
+The Deep Convolutional Generative Adversarial Networks (DCGAN) paper and DCGAN Code which can be used to learn a hierarchy of features without any supervision. Also, check out DCGAN used for Image Superresolution
+Step 4: Build Something
+
+Doing is key to becoming an expert. Try to build something which interests you and matches your skill level. Here are a few suggestions to get you thinking:
+
+As is tradition, start with classifying the MNIST dataset
+Try face detection and classification on ImageNet. If you are up to it, do the ImageNet Challenge 2016.
+Do a Twitter sentiment analysis using RNNs or CNNs
+Teach neural networks to reproduce the artistic style of famous painters (A Neural Algorithm of Artistic Style)
+Compose Music With Recurrent Neural Networks
+Play ping-pong using Deep Reinforcement Learning
+Use Neural Networks to Rate a selfie
+Automatically color Black & White pictures using Deep Learning
+For more inspiration, take a look at CS231n Winter 2016 & Winter 2015 projects. Also keep an eye on the Kaggle and HackerRank competitions for fun stuff and the opportunities to compete and learn.
+
+Additional Resources
+
+Here are some pointers to help you with continuous learning
+
+Read some excellent blogs. Both Christopher Olah’s blog & Andrew Karpathy’s Blog do a great job of explaining basic concepts and recent breakthrus
+Follow influencers on Twitter. Here are a few to get started @drfeifei, @ylecun, @karpathy, @AndrewYNg, @Kdnuggets, @OpenAI, @googleresearch. (see: Who to follow on Twitter for machine learning information ? )
+Google+ Deep Learning Community Page, by Yann Lecunn, is a good way to keeping in touch with innovations in deep learning as well as communicating with other deep learning professionals and enthusiasts.
+See ChristosChristofidis/awesome-deep-learning, a curated list of awesome Deep Learning tutorials, projects and communities for more fun.
