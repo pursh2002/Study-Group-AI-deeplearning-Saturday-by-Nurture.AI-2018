@@ -1,3 +1,16 @@
+# Data Science 
+– Data structures (local and distributed);
+– Data indexing;
+– Data privacy and anonymization;
+– Data lifecycle management;
+– Data transformation (deduplication, handling outliers and missing values, dimensionality reduction);
+– Data analysis (experiment design, classification, regression, unsupervised methods);
+– Machine learning methods (feature engineering, regularization, hyperparameter tuning, ensemble methods and neural networks);
+– Computer and database programming, numerical optimization;
+– Distributed data processing;
+– Real-time and high-frequency data processing;
+– Linux (my personal bias).
+
 # [machin 30 projects]
 (https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7)
 # Top-down learning path: Machine Learning for Software Engineers
