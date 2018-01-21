@@ -10,3 +10,5 @@
 [https://www.linkedin.com/pulse/chapter-9-natural-language-processing-madhu-sanjeevi-mady-/
 
 [https://www.udemy.com/introduction-to-nlp-london/learn/v4/t/lecture/5257474?start=0
+
+[https://towardsdatascience.com/how-to-get-started-in-nlp-6a62aa4eaeff
