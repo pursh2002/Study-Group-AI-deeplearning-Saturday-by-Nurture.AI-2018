@@ -98,7 +98,11 @@ https://github.com/sachinruk/deepschool.io
 ## paperspace 
 https://www.paperspace.com
 
-## Python Basics 
+## Colaboratory
+
+[https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome.ipynb
+
+# Python Basics 
 
 groupby, 
 sort/sorted,dict/list,set and list 
@@ -141,9 +145,11 @@ lambda
 [https://www.cybrhome.com/topic/python-tutorials --- all in one
 [https://medium.com/@laurenjglass9/
 [https://www.coursera.org/specializations/introduction-scripting-in-python
+
 # SQL
 
 https://www.youtube.com/watch?v=7rO3P9YGLmQ&index=31&list=PLMrTtbMO6mv_Hn7DvpO62RxyxodHhkQda&utm_content=buffer7e1fb&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
+
 ## Git
 
 [https://www.learnenough.com/git-tutorial
