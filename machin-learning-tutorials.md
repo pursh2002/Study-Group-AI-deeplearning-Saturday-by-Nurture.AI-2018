@@ -51,9 +51,13 @@ Kaggle Deep Learning Tutorial: https://lnkd.in/gHKWM5m
 
 🎉 CELEBRATE 🎉
 
-# [machin 30 projects]
+### [machin 30 projects]
 
-# [https://www.datacamp.com/community/tutorials/kaggle-machine-learning-eda
+### [https://www.datacamp.com/community/tutorials/kaggle-machine-learning-eda
+
+### [https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/?utm_source=facebook&utm_medium=cpc&utm_campaign=analytics-global&utm_content=US_interests-conversions
+
+### [https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/
 
 (https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7)
 # Top-down learning path: Machine Learning for Software Engineers
