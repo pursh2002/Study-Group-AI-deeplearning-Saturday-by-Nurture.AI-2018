@@ -36,6 +36,7 @@ can progress through the course confidently if you stick with us – that’s ou
 ## Session 2: Deep Learning Theory
 
 [https://stats385.github.io
+[https://static.coggle.it/diagram/WMesPqSf-AAB62b8/t/the-world-of-statistics
 
 [https://goo.gl/fzHcYM
 
