@@ -12,3 +12,19 @@
 [https://www.udemy.com/introduction-to-nlp-london/learn/v4/t/lecture/5257474?start=0
 
 [https://towardsdatascience.com/how-to-get-started-in-nlp-6a62aa4eaeff
+
+[https://nlpers.blogspot.in
+
+[https://stanfordnlp.github.io/CoreNLP/
+
+[http://www.nltk.org/book/ch01.html
+
+[https://spacy.io/usage/resources
+
+[http://www.nltk.org
+
+[https://explosion.ai/blog/
+
+[https://www.youtube.com/watch?v=nfoudtpBV68&list=PL6397E4B26D00A269
+
+
