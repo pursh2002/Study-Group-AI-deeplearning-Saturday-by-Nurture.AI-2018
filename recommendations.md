@@ -181,6 +181,7 @@ Finally, based on above models, the fox got trenches dug at various points in th
 Descriptive Analytics -> Predictive Analytics / Optimization -> Automation. This is the #AnalyticsLifeCycle.
 
 ## Step 1: Learn Machine Learning Basics (Optional, but highly recommended)
+[https://www.quora.com/How-do-I-learn-deep-learning-in-2-months/answer/Vivek-Kumar-893?srid=hk313
 
 Start with Andrew Ng's Class on machine learning Machine Learning - Stanford University | Coursera. His course provides an introduction to the various Machine Learning algorithms currently out there and, more importantly, the general procedures and methods for machine learning, including data preprocessing, hyper-parameter tuning, and more.
 
