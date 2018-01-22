@@ -197,3 +197,4 @@ https://www.youtube.com/watch?v=7rO3P9YGLmQ&index=31&list=PLMrTtbMO6mv_Hn7DvpO62
 [https://www.linkedin.com/in/madhusanjeeviai/detail/recent-activity/posts/
 [http://kindsonthegenius.blogspot.in/2018/01/basics-of-backpropagation-in-neural.html
 [http://www.wzchen.com/data-science-books
+[https://pythonprogramming.net
