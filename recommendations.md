@@ -233,3 +233,5 @@ Read some excellent blogs. Both Christopher Olah’s blog & Andrew Karpathy’s 
 Follow influencers on Twitter. Here are a few to get started @drfeifei, @ylecun, @karpathy, @AndrewYNg, @Kdnuggets, @OpenAI, @googleresearch. (see: Who to follow on Twitter for machine learning information ? )
 Google+ Deep Learning Community Page, by Yann Lecunn, is a good way to keeping in touch with innovations in deep learning as well as communicating with other deep learning professionals and enthusiasts.
 See ChristosChristofidis/awesome-deep-learning, a curated list of awesome Deep Learning tutorials, projects and communities for more fun.
+
+[https://www.kdnuggets.com/2017/11/top-10-videos-deep-learning-python.html?utm_content=buffer91990&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
