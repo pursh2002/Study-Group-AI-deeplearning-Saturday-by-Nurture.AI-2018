@@ -1,3 +1,4 @@
+# [https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 # AI-Saturday-by-Nurture.AI started on 30/12/2017 
 Making rigorous AI education accessible and free, using materials used at top universities.
 
@@ -146,6 +147,8 @@ lambda
 [https://medium.com/@laurenjglass9/
 [https://www.coursera.org/specializations/introduction-scripting-in-python
 [https://github.com/LearnTeachCode
+[https://regex101.com
+[https://automatetheboringstuff.com
 
 # SQL
 
