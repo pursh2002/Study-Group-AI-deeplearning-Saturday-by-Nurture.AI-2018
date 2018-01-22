@@ -145,6 +145,7 @@ lambda
 [https://www.cybrhome.com/topic/python-tutorials --- all in one
 [https://medium.com/@laurenjglass9/
 [https://www.coursera.org/specializations/introduction-scripting-in-python
+[https://github.com/LearnTeachCode
 
 # SQL
 
