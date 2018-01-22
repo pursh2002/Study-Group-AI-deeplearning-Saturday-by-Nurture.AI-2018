@@ -61,6 +61,7 @@ Kaggle Deep Learning Tutorial: https://lnkd.in/gHKWM5m
 
 (https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7)
 # Top-down learning path: Machine Learning for Software Engineers
+[http://www.cs.ox.ac.uk/teaching/courses/2014-2015/ml/
 
 <p align="center">
   <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers">
