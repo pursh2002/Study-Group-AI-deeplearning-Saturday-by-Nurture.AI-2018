@@ -235,3 +235,34 @@ Google+ Deep Learning Community Page, by Yann Lecunn, is a good way to keeping i
 See ChristosChristofidis/awesome-deep-learning, a curated list of awesome Deep Learning tutorials, projects and communities for more fun.
 
 [https://www.kdnuggets.com/2017/11/top-10-videos-deep-learning-python.html?utm_content=buffer91990&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+
+
+---
+📍3Blue1Brown
+Essence of Linear Algebra
+https://lnkd.in/gPZ--wZ
+
+📍StatQuest (Joshua Starmer)
+Statistics Made EASY
+https://lnkd.in/gMHzDcv
+
+📍Siraj Raval
+Fun Machine Learning & AI  
+https://lnkd.in/gDC6gz4
+
+📍Analytics University
+Anything Analytics & Machine Learning
+https://lnkd.in/gWHiaRf
+
+📍AlphaOpt
+Optimization & Gradient Descent (Short and easy explanation)
+https://lnkd.in/g_e9sJu
+
+📍3Blue1Brown
+Simple Visual Explaination on Neural Networks
+https://lnkd.in/gXcGwM6
+
+📍Two Minute Papers
+Awesome AI Research For Everyone 
+https://lnkd.in/gzvaVWh
+
