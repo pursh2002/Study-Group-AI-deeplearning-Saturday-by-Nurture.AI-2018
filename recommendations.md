@@ -266,3 +266,36 @@ https://lnkd.in/gXcGwM6
 Awesome AI Research For Everyone 
 https://lnkd.in/gzvaVWh
 
+Here is a list of what I believe are the 10 Essential Skills for #DataScience:
+
+1. Initiative - Getting Started
+What is Data Science? https://lnkd.in/gUVpw2c
+
+2. SQL Skills {Intermediate - Advanced}
+https://lnkd.in/gjvgdhZ
+
+3. Data Manipulation and Visualization
+a. Python
+Pandas: https://lnkd.in/g4DFNpJ
+Matplotlib/Seaborn:  https://lnkd.in/g_3fx_6
+b. R
+Dplyr: https://lnkd.in/erB_FVV
+Ggplot2: https://lnkd.in/eThJXNr
+
+4. Core Statistical Inference (Nice use vase)
+https://lnkd.in/evqJ6We
+
+5. Machine Learning Fundamentals 
+https://lnkd.in/gT5nNwS
+
+6. Deep Learning Fundamentals 
+https://lnkd.in/gHKWM5m
+
+7. Version Control (Git/Github)
+https://lnkd.in/esTjNma
+
+8. Basics of Command Line
+https://lnkd.in/e3EQuis
+
+9. Communication & Data Storytelling
+ https://lnkd.in/eqf5gUV
