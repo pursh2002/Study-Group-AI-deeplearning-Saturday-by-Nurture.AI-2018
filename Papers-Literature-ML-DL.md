@@ -4,11 +4,10 @@
 
 These are the 5 papers that we will be covering in the AMA on 5am-10am Friday 26th of January 2018 Coordinated Universal Time (UTC).
 
-A Multi-Agent Reinforcement Learning Model of Common-Pool Resource Appropriation13
-Data Augmentation by Pairing Samples for Image Classification8
-Generating Adversarial Examples with Adversarial Networks7
-Less is More: Culling the Training Set to Improve Robustness of Deep Neural Networks4
-eCommerceGAN: A Generative Adversarial Network for E-commerce15
-For the ground rules during the AMA - please refer to this post.
+[https://nurture.ai/p/41166f98-40d8-4af8-bc89-3b2146c9a456---A Multi-Agent Reinforcement Learning Model of Common-Pool Resource Appropriation
+[https://nurture.ai/p/b1007b2c-3be4-46e6-9d46-094461f51614---Data Augmentation by Pairing Samples for Image Classification
+[https://nurture.ai/p/eb6fd99b-a0cc-4aec-ab42-1a19465198f4---Generating Adversarial Examples with Adversarial Networks
+[https://nurture.ai/p/ff91053e-7115-4dce-b346-d39e74583703---Less is More: Culling the Training Set to Improve Robustness of Deep Neural Networks
+[https://nurture.ai/p/a02d8113-36a4-4783-954f-a48d37098b20eCommerce---GAN: A Generative Adversarial Network for E-commerce15
 
 
