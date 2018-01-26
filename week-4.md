@@ -46,3 +46,137 @@ Dataset Link: https://drive.google.com/drive/folders/0B3P9oO5A3RvSUW9qTG11Ul83TE
 
 Use the Dataset-Resized.zip for the dataset.
 Please Compare your performance with the authors performance. Write a Brief description about how you did it ?
+
+Minutes of the Meetup : #4:
+Lesson 2 :  Recap
+
+    Data Augmentation :  random Brightness, Rotation, Zoom,  Contrast
+
+    Pre-Compute Vs Pre-Training Differences
+
+    Learning Rate Annealing Decreasing rate  as time progress (Drop by 10 times)
+
+    Cosine Positive Half is used to Decrease the LR (Instead of Step)
+
+    Differential Learning Rates: Layer Groups 3 Groups : [Earlier middle Last]
+
+    epochs: no of iterations
+
+    Cycle_len= no of cycles or restarts (Finding the perfect spot)
+
+    cycle_mult= rate at which lr is decreased (Duration will increase)
+
+    learn.sched.plot_lr()
+
+Lesson 3 :
+
+Relationship between of Batch Size and Learning rate : https://miguel-data-sc.github.io/2017-11-05-first/
+
+Download Data From Kaggle : Kaggle-cli or CurlWget Extension Method
+
+Symbolic Link : Similar to Shortcut:  usage  :ln -s src dest
+
+Minimum Steps to Build a model:
+
+Pre-Compute vs Data Augmentation :
+
+Batch Norm : Bigger\Large Models : Similar Dataset  and Freeze layers of Batch Norm.
+
+Keras Version on Lesson 1
+
+Shuffle Validation : False
+
+Dog- Breeds Challenge Very Similar to Trash Classifier
+
+learn.TTA(is_test=True) - To do Prediction on Test Set
+
+df.to_csv() use Compression to make size smaller
+
+FileLink('Path to File)
+
+Individual Prediction
+
+Image Kernels : Otavio viz Video  Please Watch (no Direct Link)
+
+Excel Explanation
+
+Number of Channels Vs Kernel
+
+Activation Function : http://neuralnetworksanddeeplearning.com/chap4.html
+
+Multiple Labels on single: Softmax dont use - picks only single thing
+
+Multi Label : Sigmoid
+
+traditionally use from_csv approach coz same file cannot exist in multiple folders
+
+top_down: All possible transformation 8 symmetric rotation
+
+shift +tab ; Gives you function details
+
+Start from small images and then upscale it (When using images different from image net)
+
+F2 Score : https://en.wikipedia.org/wiki/F1_score (Mentioned by Kaggle)
+
+When Resizing we transform to required size and do a center crop
+
+For More Detailed Notes : http://forums.fast.ai/t/deeplearning-lecnotes3/7866
+
+
+
+
+***Cs231n : ***
+
+Lesson 3 :
+
+Revisit : Linear Classifier :
+
+Loss Function: Quantitatively determine how Bad the Weights ?
+
+How Loss changes : W small : Loss min : no of Classes-1.
+
+Regularisation : Extra term added to loss to pick simple Weigths(Smaller and Better)
+
+Hingle Loss
+
+Softmax: Cross Entropy
+
+Lesson 4:
+
+Back Prop : Recursively use Chain Rule to compute gradient wrt to all variable
+
+How is Backprop is computed?
+
+Numeric Gradient vs Analytic gradient
+
+Code Implementation of Backprop (If Interested )
+
+***Cs224d:***
+
+Lesson 2 :
+
+    Meaning of a Word: Defined by what it signifies in real world (What it Denotes)
+
+    Using Taxonomic Resources ..  As new words come in or different kind of usage occurs then many meaning will be missing.
+
+    One Hot Representation : No inherent notion of relationship between words (Orthogonal to each other)
+
+    Distributional Similarity :  Find all occurrence of the words with its surrounding to understand the context (Different from Distributed Representation)
+
+    Objective is to find out a vector(Preferably Dense)
+
+    Embedding is the vector representation of words. Eg :Word2Vec
+
+    Define a model to predict the center word /surrounding words when the surrounding words/center word are given
+
+    define loss how close to the context
+
+    Skip Gram : Predict center word when surrounding word is given. Maximize the probability of Center word Loss : Cross entropy loss
+
+Lesson 3 :
+
+    What is Glove ?
+
+    Advantages of Glove ?
+
+    Understanding the performance and working of glove
