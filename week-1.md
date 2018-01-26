@@ -102,6 +102,7 @@ https://www.paperspace.com
 ## Colaboratory
 
 [https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome.ipynb
+[https://www.kaggle.com/getting-started/47096
 
 # Python Basics 
 
