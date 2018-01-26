@@ -5,6 +5,8 @@ pre-prints that week. Or use that time to catch-up on lectures and readings (Aft
 focused towards demo and hands on Coding !) while discussing with peers.
 [http://forums.fast.ai/t/wiki-lesson-2/9399
 
+[http://forums.fast.ai/t/deeplearning-lecnotes3/7866
+
 # Session 1: Video Lecture Synopsis and Discussion
 ## 1) Practical Deep Learning (Fast.ai) : Lecture 2
 Video : [https://youtu.be/JNxcznsrRb8
