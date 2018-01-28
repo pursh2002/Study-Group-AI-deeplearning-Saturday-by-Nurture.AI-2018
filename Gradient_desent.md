@@ -15,3 +15,20 @@ The idea is simple: instead of keeping in memory all activations to compute back
 The speed penalty is small because accessing RAM is expensive anyway and recomputing activations is relatively cheap.
 
 Check it out on GitHub: https://lnkd.in/enamPng
+
+*** Bagging (Bootstrap Aggregation): Basics ***
+~ Invented by Leo Breiman: Bootstrap aggregation.
+~ L. Breiman, "Bagging predictors," Machine Learning, 1996.
+~ Majority vote from classifiers (models, algorithms) trained on bootstrap samples of training data.
+~ Bagging:
+1. Generate B bootstrap samples of the training data: random sampling with replacement.
+2. Train a classifier or a regression model using each bootstrap sample.
+3. For classification: majority vote on the classification results. 
+4. For regression: average of predicted values.
+5. Error variation is reduced, not so for error bias. 
+6. Suitable for high variance low bias models (complex models)
+7. Improves performance of unstable classifiers with small changes in the dataset. 
+8. Found trees improve a lot (Random Forests)
+9. Works because averaging over bootstrap samples reduces error variance, especially with unstable classifiers. 
+10. Bagging is a powerful technique. Explore it. Enjoy it. See Comment A. 
+--- B. Noted
