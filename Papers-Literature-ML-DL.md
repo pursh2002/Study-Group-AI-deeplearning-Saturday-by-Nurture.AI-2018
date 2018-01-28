@@ -11,5 +11,6 @@ These are the 5 papers that we will be covering in the AMA on 5am-10am Friday 26
 [https://nurture.ai/p/a02d8113-36a4-4783-954f-a48d37098b20eCommerce---GAN: A Generative Adversarial Network for E-commerce15
 
 [https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188
+[https://arxiv.org/pdf/1502.05698.pdf
 
 
