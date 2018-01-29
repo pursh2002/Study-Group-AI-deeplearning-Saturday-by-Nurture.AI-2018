@@ -27,6 +27,8 @@
 
 [https://towardsdatascience.com/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0---learning rate
 
+[https://miguel-data-sc.github.io/2017-11-05-first/ -- visualazing learning rate vs batch size
+
 Using the free and proven Fast.ai materials, this is perfect for beginners in deep learning and machine learning, 
 with some prior Python programming experience and high school math knowledge – and it’d get you to a stage where 
 you can implement cutting-edge deep learning models, in just 14 weeks! No worries if you have no Python programming
