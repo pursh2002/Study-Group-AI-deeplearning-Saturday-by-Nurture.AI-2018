@@ -29,6 +29,9 @@
 
 [https://miguel-data-sc.github.io/2017-11-05-first/ -- visualazing learning rate vs batch size
 
+[https://medium.com/@radekosmulski/do-smoother-areas-of-the-error-surface-lead-to-better-generalization-b5f93b9edf5b---Do smoother areas of the error surface lead to better generalization?
+r
+
 Using the free and proven Fast.ai materials, this is perfect for beginners in deep learning and machine learning, 
 with some prior Python programming experience and high school math knowledge – and it’d get you to a stage where 
 you can implement cutting-edge deep learning models, in just 14 weeks! No worries if you have no Python programming
