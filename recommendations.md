@@ -299,3 +299,48 @@ https://lnkd.in/e3EQuis
 
 9. Communication & Data Storytelling
  https://lnkd.in/eqf5gUV
+ 
+ 
+ What gets you inspired about this field?
+
+Here’s 9 Must-Watch #DeepLearning Videos to get INSPIRED by:
+
+➖
+Getting inspiration through other people's work allows you to broaden up your mind and allow insights in ways that you never thought of before. 
+
+⚠️ The links below are 2min bite-sized videos ⚠️
+By Two Minute Papers. A YouTube channel that uploads videos where the most recent scientific works are discussed in a simple and enjoyable way, 2 minutes at a time.
+
+Watch at least one! 
+
+➖
+1. DeepMind’s AI Creates Images From Your Sentences
+https://lnkd.in/g-kHVh9
+
+2. DeepMind’s AI Learns Locomotion From Scratch
+https://lnkd.in/gXscmM8
+
+3. DeepMind’s AI Beats AlphaGo 100-0
+https://lnkd.in/g8JxYgJ
+
+4. OpenAI Bot Beats DOTA World Champion
+https://lnkd.in/gHDzqQD
+
+5. NVIDIA's AI Dreams Up Imaginary Celebrities
+https://lnkd.in/ghqYEUu
+
+6. AI Algorithmic Beautification of Selfies
+https://lnkd.in/gUhS2bK
+
+7. Deep Neural Network Learns Van Gogh's Art
+https://lnkd.in/gbr_F-2
+
+8. AI Creates Facial Animation From Audio
+https://lnkd.in/gWwV3jC
+
+9. Image Synthesis From Text With Deep Learning
+https://lnkd.in/gRG4b2K
+
+➖
+Hope you're inspired 😀
+
