@@ -91,4 +91,80 @@ Keras : Build Different Neural Network Architectures and Experiment on the given
 
 
 
-7)Gist of the Videos  will be presented followed by a discussion. Administrative Stuff and other Generic Stuff (Introductions) can be fast forwarded at your ease. Do start with Fast.ai Video and try replicating the notebook without copying the code.  
+7)Gist of the Videos  will be presented followed by a discussion. Administrative Stuff and other Generic Stuff (Introductions) can be fast forwarded at your ease. Do start with Fast.ai Video and try replicating the notebook without copying the code. 
+
+
+Summary-----
+
+
+****    Minutes of the Meetup : #5:    ****
+
+****    Fast.ai Lesson 4: ****
+
+Linear Layer: Same as Matrix Multiplication
+When we do Inference we don't perform dropout( It is Done only in Training : Val accuracy  will be better as some neurons are off) : Ps- Dropout Parameter (Default Value : Initial layers 0.25 and  later layers 0.5. Over fitting increase value and under fitting lower the value) (Recommendation : Same dropout or dropout only at the end)
+
+xtra_fc: {} take list of Fully Connected Layers and appends after CNN
+
+Structured Data - Deep Learning : Rossman Competition:
+Categorical(a,b,c) and Continuous (1,1.4,2,2.4,3) 
+
+Separate Categorical (astype('category'))and Continuous values into different variables.(Type cast accordingly)
+
+proc_df : Pulls the predict variable and puts into separate frame
+do_scale : Scale data
+missing value : categorical : 0 continuous: median value new bool column appended to show whether the value was missing.
+
+ColumnalModelData.
+1) from_data_frame : PATH, val_idx,df,yl,cat_flds ,bs
+
+2) get_learner: Creation of model
+NOTE : Data Object is used to create learner object
+Embedding Matrix or Distributed Representation: Use random weights initially and tune them to optimal value used for encoding categorical value . Min of (50, cardinality+1/2)
+Cardinality ? No of unique Values in a Categorical Variable
+
+- Effect of vanishing gradient in structured data. 
+
+add_datepart() - 
+custom metrics : define as function and pass it as parameter in fit.
+
+Data Augmentation on Columnar Dataset ?
+
+Language Modeling : Predict Next word : Swift key  
+Token : Symbol/ word : Use Spacy to tokenize
+Torchtext library used to preprocess
+
+LanguageModelData
+backpropthroughtime : bptt
+Vocab : List of Unique words
+
+Adam : Beta Value : (0.7 to 0.99)
+AWD LSTM : Dropout distributed across the layers
+Gradient Clipping :  0.3 (Max)
+
+Torch Text Splits : Split the data into bits : Built in in Torchtext
+
+****    CS-224d : NLP: Fundamentals Of NLP : Representing a Words as Vector    ****
+
+Lecture 2 and 3 : Revisited : 
+
+Need for Word2Vec.
+    Disadvantages : Computational Expensive and Doesn't not exploit Statistics problem. 
+
+Co-Occurrence Matrix : Co-Occurrence matrix is used to get word embeddings (by Exploiting Statistics), A Dense vector is obtained using SVD and other matrix decomposition techniques.
+Co-Occurrence can be formed by considering a neighboring window or by considering the entire corpus.
+Disadvantages: Common tokens like "the","a","he","she" etc.. become dominant(More no of count will be observed) and affect the embeddings derived. It is not feasible as the vocabulary size becomes large. 
+
+Glove : Exploits both Word2Vec and Co-Occurrence approach.
+
+The Embeddings obtained are highly dependent on the data from which it was 
+obtained.
+
+Dropout can used to test the stability of the model and get a feedback on  generalizing capacity of the model.
+
+Gradient clipping in commonly used in RNN/LSTM since the gradient tends to explode as it flows through the network. 
+
+
+Lecture 4 and 5 : Will be Discussed in Next Meetup
+
+****    CS-231N : Will be Discussed in Next Meetup;     ****
