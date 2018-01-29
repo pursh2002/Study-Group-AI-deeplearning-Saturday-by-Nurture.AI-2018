@@ -12,6 +12,7 @@ focused towards demo and hands on Coding !) while discussing with peers.
 Video : [https://youtu.be/JNxcznsrRb8
 Wiki : [http://forums.fast.ai/t/wiki-lesson-2/9399
 [https://towardsdatascience.com/neural-networks-with-google-colaboratory-artificial-intelligence-getting-started-713b5eb07f14
+[https://medium.com/@apiltamang/case-study-a-world-class-image-classifier-for-dogs-and-cats-err-anything-9cf39ee4690e
 
 ## 2) CS231n : (Mandatory for guys interested in Computer Vision)
 
