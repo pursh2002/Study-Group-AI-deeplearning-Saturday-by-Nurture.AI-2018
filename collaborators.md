@@ -16,3 +16,5 @@ files.download(filename='test.csv')
 !ls
 !ls datalab
 !pip install gensim
+
+[http://forums.fast.ai/t/colaboratory-and-fastai/10122
