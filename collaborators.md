@@ -30,4 +30,4 @@ files.download(filename='test.csv')
 
 [https://medium.com/ai-saturdays/kaggle-planet-competition-how-to-land-in-top-4-a679ff0013ba---Kaggle Planet Competition: How to land in top ---kaggle-cli
 
-[
+[https://github.com/floydwch/kaggle-cli
