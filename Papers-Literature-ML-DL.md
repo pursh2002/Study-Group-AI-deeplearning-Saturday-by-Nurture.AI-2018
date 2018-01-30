@@ -15,4 +15,13 @@ These are the 5 papers that we will be covering in the AMA on 5am-10am Friday 26
 
 [https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188
 
+[Nurture.AI Research Fellows are hosting yet another round of AMA for this week's top AI research papers! https://lnkd.in/fisPtT6
+
+Here are the papers they are covering this week, with annotations in comments by our research fellows:
+PointCNN: https://lnkd.in/fzN2Mdn
+Let’s Dance: Learning From Online Dance Videos: https://lnkd.in/fTyskYH
+PRNN: Recurrent Neural Network with Persistent Memory: https://lnkd.in/fCuCnq5
+HappyDB: A Corpus of 100,000 Crowdsourced Happy Moments: https://lnkd.in/fjsHZsJ
+Personalizing Dialogue Agents: I have a dog, do you have pets too?: https://lnkd.in/fmyPhpK
+
 
