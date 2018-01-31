@@ -15,6 +15,8 @@ Preparation Session for the upcoming AI Saturdays regular sessions. Topics inclu
 
 [https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
+[http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BNsfBN73TR5%2BqTToqiMl5yw%3D%3D
+
 [[https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 
 [https://www.deeplearning.ai)
