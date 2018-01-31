@@ -59,6 +59,8 @@ Kaggle Deep Learning Tutorial: https://lnkd.in/gHKWM5m
 
 ### [https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/
 
+[http://www.fast.ai/2017/11/13/validation-sets/--
+
 (https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7)
 # Top-down learning path: Machine Learning for Software Engineers
 [http://www.cs.ox.ac.uk/teaching/courses/2014-2015/ml/
