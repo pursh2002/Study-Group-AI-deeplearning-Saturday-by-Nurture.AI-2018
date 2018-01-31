@@ -23,3 +23,7 @@ input ---layer + - -------= relu----maxpool ---repeat = and compare it with a te
 multiply by 4 * 8 matrix and add and coverted to giv perc prob
 
 https://github.com/fastai/fastai/tree/master/courses/dl1/excel
+
+single lable --- softmax
+
+multilabel --sigmoid
