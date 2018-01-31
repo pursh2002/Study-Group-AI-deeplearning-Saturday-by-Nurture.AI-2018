@@ -199,3 +199,4 @@ https://www.youtube.com/watch?v=7rO3P9YGLmQ&index=31&list=PLMrTtbMO6mv_Hn7DvpO62
 [http://kindsonthegenius.blogspot.in/2018/01/basics-of-backpropagation-in-neural.html
 [http://www.wzchen.com/data-science-books
 [https://pythonprogramming.net
+[https://medium.com/@datamonsters/artificial-neural-networks-for-natural-language-processing-part-1-64ca9ebfa3b2?imm_mid=0fa998&cmp=em-data-na-na-newsltr_ai_20180122 --- types of neural networs
