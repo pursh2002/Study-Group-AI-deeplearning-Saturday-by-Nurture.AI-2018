@@ -25,3 +25,6 @@ HappyDB: A Corpus of 100,000 Crowdsourced Happy Moments: https://lnkd.in/fjsHZsJ
 Personalizing Dialogue Agents: I have a dog, do you have pets too?: https://lnkd.in/fmyPhpK
 
 
+[https://towardsdatascience.com/how-do-we-train-neural-networks-edd985562b73
+
+
