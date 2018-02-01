@@ -6,6 +6,7 @@ focused towards demo and hands on Coding !) while discussing with peers.
 [http://forums.fast.ai/t/wiki-lesson-2/9399
 
 [http://forums.fast.ai/t/deeplearning-lecnotes3/7866
+[https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-3-74b0ef79e56
 
 # Session 1: Video Lecture Synopsis and Discussion
 ## 1) Practical Deep Learning (Fast.ai) : Lecture 2
