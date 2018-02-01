@@ -1,3 +1,8 @@
+
+
+
+refer:
+[https://github.com/pursh2002/text-analytics-with-python
 [https://www.youtube.com/watch?v=nfoudtpBV68&list=PL6397E4B26D00A269-----Stanford NLP - Professor Dan Jurafsky & Chris Manning
 [https://github.com/andrewt3000/dl4nlp----Deep Learning for NLP resources
 [http://cs224d.stanford.edu/syllabus.html----http://cs224d.stanford.edu/syllabus.html
