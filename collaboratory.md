@@ -24,6 +24,7 @@ files.download(filename='test.csv')
 !pip install gensim
 
 [http://forums.fast.ai/t/colaboratory-and-fastai/10122
+[https://colab.research.google.com/notebook#fileId=1aolUxkEYWiz_ofKhy_AZNRJKLrCMeOZx&scrollTo=xc0L0mK_Ye7T
 [https://colab.research.google.com/notebook#fileId=1Yhmmws6eelhXs2WQHJ7BUMQO9Wu5MoQj&scrollTo=FJPKhur_wFwc
 [https://towardsdatascience.com/fast-ai-lesson-1-on-google-colab-free-gpu-d2af89f53604
 [https://colab.research.google.com/notebook#fileId=1v-yZk-W4YXOxLTLi7bekDw2ZWZXWW216&scrollTo=mKaIFIz17_bY ---xlrd
