@@ -76,6 +76,7 @@ implementing the techniques covered in the session, which can then be completed 
 
 [http://cs231n.stanford.edu
 [[https://www.youtube.com/watch?v=2-Ol7ZB0MmU
+[http://cs231n.stanford.edu/syllabus.html
 
 Covering the material in Stanford’s CS231n Spring 2017 course headed by Prof Fei-Fei Li (Chief AI Scientist of Google Cloud, 
 Director of Stanford AI Lab), we will take the first 1.5 hours to view and discuss the lecture together. We will take another 
