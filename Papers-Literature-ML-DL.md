@@ -36,4 +36,4 @@ Personalizing Dialogue Agents: I have a dog, do you have pets too?: https://lnkd
 
 [https://towardsdatascience.com/how-do-we-train-neural-networks-edd985562b73
 
-http://www.deeplearningitalia.com/en/references/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_shares%3BU3uxo1lfRQyO2teTc9GIlw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BoAUAeNyjSBmeCzPwH%2FH11g%3D%3D
+https://goo.gl/nJr5KH deep learnig
