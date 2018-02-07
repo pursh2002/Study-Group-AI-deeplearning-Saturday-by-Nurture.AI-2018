@@ -32,4 +32,6 @@ refer:
 
 [https://www.youtube.com/watch?v=nfoudtpBV68&list=PL6397E4B26D00A269
 
+https://www.kdnuggets.com/2017/07/5-free-resources-getting-started-deep-learning-nlp.html?utm_content=buffer94108&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+
 
