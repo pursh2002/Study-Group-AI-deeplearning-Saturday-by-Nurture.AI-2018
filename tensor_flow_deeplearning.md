@@ -9,3 +9,5 @@
 * https://aws.amazon.com/blogs/machine-learning/how-to-deploy-deep-learning-models-with-aws-lambda-and-tensorflow/
 
 
+https://medium.com/botsupply/tensorflow-docker-production-ready-ai-product-ae30435ad8e9
+
