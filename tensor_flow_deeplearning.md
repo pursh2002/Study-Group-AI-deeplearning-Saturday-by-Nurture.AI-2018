@@ -11,3 +11,5 @@
 
 https://medium.com/botsupply/tensorflow-docker-production-ready-ai-product-ae30435ad8e9
 
+http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
+
