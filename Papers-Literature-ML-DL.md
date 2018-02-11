@@ -37,3 +37,17 @@ Personalizing Dialogue Agents: I have a dog, do you have pets too?: https://lnkd
 [https://towardsdatascience.com/how-do-we-train-neural-networks-edd985562b73
 
 https://goo.gl/nJr5KH deep learnig
+
+## These are the 5 papers that we will be covering in the AMA on 5am-10am Friday 9nd of Feb 2018 Coordinated Universal Time (UTC).
+
+Deep Reinforcement Learning for Programming Language Correction10
+
+Pretraining Deep Actor-Critic Reinforcement Learning Algorithms With Expert Demonstrations1
+
+TransRev: Modeling Reviews as Translations from Users to Items1
+
+Generating Wikipedia by Summarizing Long Sequences3
+
+Image2GIF: Generating Cinemagraphs using Recurrent Deep Q-Networks1
+
+
