@@ -1,3 +1,5 @@
+https://medium.com/@gokkulnathts/ai-saturday-bangalore-chapter-trash-classifier-tutorial-8e6b3c6860c5
+
 **** Fast.ai : Lesson 3 and 4 Revisited : ****
 
 Relationship between of Batch Size and Learning rate : https://miguel-data-sc.github.io/2017-11-05-first/
