@@ -107,6 +107,10 @@ Colaboratory
 
 [https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome.ipynb [https://www.kaggle.com/getting-started/47096
 
+Build your own computer with GPU for 1000$
+
+https://www.oreilly.com/learning/build-a-super-fast-deep-learning-machine-for-under-1000
+
 Python Basics
 
 groupby, sort/sorted,dict/list,set and list when to use ?
