@@ -2,6 +2,8 @@ http://forums.fast.ai/t/deeplearning-lecnotes3/7866
 https://medium.com/@gokkulnathts/ai-saturday-bangalore-chapter-trash-classifier-tutorial-8e6b3c6860c5
 http://forums.fast.ai/t/deeplearning-lec4notes/8146
 http://forums.fast.ai/t/deeplearning-lecnotes5/8416
+
+https://www.kdnuggets.com/2018/02/understanding-learning-rates-improves-performance-deep-learning.html
 **** Fast.ai : Lesson 3 and 4 Revisited : ****
 
 Relationship between of Batch Size and Learning rate : https://miguel-data-sc.github.io/2017-11-05-first/
