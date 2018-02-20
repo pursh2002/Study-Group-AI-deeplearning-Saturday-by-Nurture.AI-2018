@@ -6,3 +6,5 @@ Anyone interested in building a text classification model zoo together? Maybe we
 I was quite impressed by the Wordbatch package(https://lnkd.in/e-CTSky) during Mercari competition. I am thinking to do something meaningful an
 
 https://sigmoidal.io/boosting-your-solutions-with-nlp/
+
+https://www.datasciencecentral.com/profiles/blogs/context-matters-when-text-mining?utm_content=bufferf907a&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
