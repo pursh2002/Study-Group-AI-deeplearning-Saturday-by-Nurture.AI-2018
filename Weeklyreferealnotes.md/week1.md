@@ -91,7 +91,7 @@ install on gpu the fast.ai which has all the libraries(anaconda,jup)
 
 [https://medium.com/ai-saturdays/the-windows-guide-to-setting-up-a-google-cloud-instance-for-the-fast-ai-course-fe2d61f098ca
 
-install docker
+### install docker
 
 https://github.com/sachinruk/deepschool.io
 
