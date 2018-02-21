@@ -74,9 +74,7 @@ class session
 
 We are not going to be discussing Stats 385 Deep Learning Theory Couse as it requires a great deal of familiarity with Multiple Deep Learning concepts which most of the members lack. Further we feel that it wont add any value unless you plan to dive into academia. (If you are still interested to have it please contact us )
 
-***Important !! *** Please fill the Feedback and Attendance form before you continue reading the post. Your feedback will give us valuable information in order to make your learning experience better.
-
-Feedback Link : https://goo.gl/forms/93djxTmhgTFbfUhp1
+# 
 
 *** Lecture Videos Discussed: ***
 
