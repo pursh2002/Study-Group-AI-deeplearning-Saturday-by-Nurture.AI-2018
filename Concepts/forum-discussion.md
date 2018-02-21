@@ -1,4 +1,4 @@
-Different categories for discussions and questions on the AI6 forums:
+# Different categories for discussions and questions on the AI6 forums:
 
 Environment Set-up – [https://ai6forums.nurture.ai/c/environment-set-up
 
