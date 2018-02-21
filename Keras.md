@@ -215,3 +215,4 @@ value in each part of array denotes darkness of that pixel
 a deep learning model in those 784 features for each image for input and predicting from ten possible values for output
 
 
+http://www.datascribble.com/blog/deep-learning/getting-started-keras/
