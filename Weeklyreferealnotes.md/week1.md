@@ -1,6 +1,6 @@
 [https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 
-AI-Saturday-by-Nurture.AI started on 30/12/2017
+# AI-Saturday-by-Nurture.AI started on 30/12/2017
 
 Making rigorous AI education accessible and free, using materials used at top universities.
 
@@ -8,7 +8,7 @@ https://nurture.ai/ai-saturdays
 
 Teachng Material/Personal Notes
 
-Preparation Session for the upcoming AI Saturdays regular sessions. Topics include
+## Preparation Session for the upcoming AI Saturdays regular sessions. Topics include
 
 Basic Python programming
 Linear Algebra
@@ -44,7 +44,7 @@ Eigenvectors and eigenvalues | Essence of linear algebra, chapter 10
 Abstract vector spaces | Essence of linear algebra, chapter 11
 [https://www.youtube.com/watch?v=wa0GRQCcOpI&feature=youtu.be
 
-AWS
+### AWS
 
 github student pack
 AWS student 9 hours/hour
@@ -55,7 +55,7 @@ neptune
 GPU cards 700$ nvidia(98000), geforce gtx 1080 Ti
 Pytorch by facebook tensorflow by google
 
-install at google cloud
+### install at google cloud
 
 [https://towardsdatascience.com/running-jupyter-notebook-in-google-cloud-platform-in-15-min-61e16da34d52
 
@@ -95,23 +95,23 @@ install docker
 
 https://github.com/sachinruk/deepschool.io
 
-install crestle
+### install crestle
 
 [https://www.youtube.com/watch?v=IPBSB1HLNLo&feature=youtu.be
 
-paperspace
+### paperspace
 
 https://www.paperspace.com
 
-Colaboratory
+### Colaboratory
 
 [https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome.ipynb [https://www.kaggle.com/getting-started/47096
 
-Build your own computer with GPU for 1000$
+### Build your own computer with GPU for 1000$
 
 https://www.oreilly.com/learning/build-a-super-fast-deep-learning-machine-for-under-1000
 
-Python Basics
+### Python Basics
 
 groupby, sort/sorted,dict/list,set and list when to use ?
 
@@ -148,15 +148,15 @@ lambda
 
 [https://kantologist.github.io/Tutorials/#!/ [http://lineardata.net/the-ultimate-guide-to-numpy-in-python/ [https://data-flair.training/blogs/python-variables-and-data-types/ [https://www.cybrhome.com/topic/python-tutorials --- all in one [https://medium.com/@laurenjglass9/ [https://www.coursera.org/specializations/introduction-scripting-in-python [https://github.com/LearnTeachCode [https://regex101.com [https://automatetheboringstuff.com
 
-SQL
+### SQL
 
 https://www.youtube.com/watch?v=7rO3P9YGLmQ&index=31&list=PLMrTtbMO6mv_Hn7DvpO62RxyxodHhkQda&utm_content=buffer7e1fb&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
 
-Git
+### Git
 
 [https://www.learnenough.com/git-tutorial
 
-Kaggle
+### Kaggle
 
 [https://www.kaggle.com/learn/overview
 
@@ -164,7 +164,7 @@ Kaggle
 
 [https://www.kaggle.com/learn/machine-learning
 
-Articals
+### Articals
 
 [https://medium.com/the-mission/deconstructing-data-science-breaking-the-complex-craft-into-its-simplest-parts-15b15420df21
 
