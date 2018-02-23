@@ -63,3 +63,5 @@ Jupyter Notebook Tip : shift +tab ; Gives you function details
 **** Assignments:  ****
 DogBreeds Challenge On Kaggle : Atleast try to make One Submission 
 Analytics Vidhya : Try Loan Prediction III Challenge (edited)
+
+https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-3-74b0ef79e56
