@@ -66,5 +66,5 @@ http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture4.pdf
 In biologically inspired neural networks, the activation function is usually an abstraction representing the rate of action potential firing in the cell
 
 http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture6.pdf
-
+https://en.wikipedia.org/wiki/Activation_function
 
