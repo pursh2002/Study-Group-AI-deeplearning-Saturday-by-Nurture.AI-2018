@@ -52,6 +52,7 @@ An optimization problem seeks to minimize a loss function.
 In statistics, typically a loss function is used for parameter estimation, and the event in question is some function of the difference between estimated and true values for an instance of data. 
 
 # batch (re-)normalization
+tries to get the mean and median each dimension 
 https://medium.com/luminovo/a-refresher-on-batch-re-normalization-5e0a1e902960
 
 # Back Propagation
@@ -61,7 +62,8 @@ http://cs231n.github.io/optimization-2/
 http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture4.pdf
 
 
-# Activation function 
+# Activation function  
+# Hyperparameter Optimization
 
 In biologically inspired neural networks, the activation function is usually an abstraction representing the rate of action potential firing in the cell
 
