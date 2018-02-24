@@ -14,7 +14,9 @@ Hands on :
 2 Layer Neural Network using Numpy : Without any Libraries and with Libraries like Keras, Tensorflow and Pytorch
 (1 or 2 of the frameworks)
 # Naive Approach to Build Images Classifier
-
+https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
+https://en.wikipedia.org/wiki/Naive_Bayes_classifier
+https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
 
 
 # Softmax normalization
@@ -40,3 +42,10 @@ In mathematical optimization, statistics, econometrics, decision theory, machine
 An optimization problem seeks to minimize a loss function.
 
 In statistics, typically a loss function is used for parameter estimation, and the event in question is some function of the difference between estimated and true values for an instance of data. 
+
+# batch (re-)normalization
+https://medium.com/luminovo/a-refresher-on-batch-re-normalization-5e0a1e902960
+
+
+
+
