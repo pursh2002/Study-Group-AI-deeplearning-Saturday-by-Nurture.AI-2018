@@ -17,6 +17,10 @@ Hands on :
 https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
 https://en.wikipedia.org/wiki/Naive_Bayes_classifier
 https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+https://web.stanford.edu/~jurafsky/slp3/6.pdf
+http://scikit-learn.org/stable/modules/naive_bayes.html
+http://www.cs.cmu.edu/afs/andrew/course/15/381-f08/www/lectures/Classify.pdf
+http://sebastianraschka.com/Articles/2014_naive_bayes_1.html
 
 
 # Softmax normalization
