@@ -13,6 +13,9 @@ Hands on :
 
 2 Layer Neural Network using Numpy : Without any Libraries and with Libraries like Keras, Tensorflow and Pytorch
 (1 or 2 of the frameworks)
+# Naive Approach to Build Images Classifier
+
+
 
 # Softmax normalization
 * http://cs231n.github.io/linear-classify/
