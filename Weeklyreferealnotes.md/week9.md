@@ -13,6 +13,10 @@ Hands on :
 
 2 Layer Neural Network using Numpy : Without any Libraries and with Libraries like Keras, Tensorflow and Pytorch
 (1 or 2 of the frameworks)
+# CNN 
+
+http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture5.pdf
+
 # Naive Approach to Build Images Classifier
 https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
 https://en.wikipedia.org/wiki/Naive_Bayes_classifier
@@ -57,6 +61,10 @@ http://cs231n.github.io/optimization-2/
 http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture4.pdf
 
 
+# Activation function 
 
+In biologically inspired neural networks, the activation function is usually an abstraction representing the rate of action potential firing in the cell
+
+http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture6.pdf
 
 
