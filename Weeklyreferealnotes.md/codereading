@@ -1,0 +1,75 @@
+## http://forums.fast.ai/t/code-reading/7182
+
+First function in Lecture 1 looks simple:
+data = ImageClassifierData.from_paths(PATH, tfms=tfms_from_model(resnet34, sz))
+
+But this what happens behind the scene:
+
+ImageClassifierData - nested class with ImageData which is nested class with ModelData
+
+parameters:
+PATH - just a path to folder with images
+tfms_from_model (transforms) contains a model and a batch size
+selects mean and std based on model type (inception_4, inceptionresnet_2) vs (others) to path into Normalize / Denormalize
+returns train and validation image_gen (image generators - TBD)
+method from_paths:
+calls folder_source function for train and valid (tuples of shape[0] == 3 )
+calls read_dirs function
+iglob - returns relative paths that match a pattern
+returns list of
+relative paths from PATH to all files in dirs (‘train/valid/cats/cat.980.jpg’)
+classes of files (upper level folder`s name)
+list of all classes [dogs, cats]
+creates dictionary with classes mapping into numerical values
+converts files classes into numerical values
+returns
+relative paths (‘train/valid/cats/cat.980.jpg’)
+classes of files in numerical format
+list of all classes [dogs, cats]
+calls read_dir for test folder
+calls get_ds (get dataset) method
+process train/valid/test sets with train and valid image generators (we get from tfms_from_model, 2 processing for each set). train image_gen contains additional params: tfms=aug_tfms, max_zoom=max_zoom which valid image_gen does not have
+processing function is class FilesIndexArrayDataset - returns only number of classes with get_c method
+takes as input FilesArrayDataset - init takes fnames, y, transform, path
+returns class name with get_y
+returns y.shape[1] with get_c method - is it correct?
+takes as input FilesDataset class
+can return len of y, batch size
+get_x method
+opens i-th filename (created by folder_source)
+converts into np.float32 and /255.
+resize_imgs method calls resize_imgs function (TBD)
+denorm method calls transform.denorm(np.rollaxis(arr,1,4)) (TBD)
+takes as input BaseDataset (TBD)
+takes as input Dataset class (TBD)
+returns datasets (list with):
+train processed with train image_gen
+train processed with valid image_gen
+valid processed with train image_gen
+valid processed with valid image_gen
+test processed with train image_gen
+test processed with valid image_gen
+returns
+path,
+datasets,
+batch size,
+num_workers (default value 4 defined in method from_paths)
+number of classes
+Next line ConvLearner.pretrained(resnet34, data, precompute=True)
+
+ConvLearner nested class with Learner
+method pretrained creates a model with class ConvnetBuilder
+cut_model - by default select 8 layers for resnet*
+adds two layers AdaptiveConcatPool2d(), Flatten()
+creates top_model = nn.Sequential(*layers)
+calls get_fc_layers method to create fc layers
+iterates through xtra_fc (extra fully connected layers), default value is [512]
+calls create_fc_layer
+adds BatchNorm1d with ni = num_features = layers[-1] *2
+adds nn.Dropout(p=p) where p default is [0.25 ,0.5]
+adds Linear(in_features=ni, out_features=nf) where nf - number of output nodes defined by xtra_fc, default 512
+ads nn.ReLU
+adds Sigmoid or Softmax final function based on self.is_multi (param in init)
+if task is regression (self.is_reg) removes final Sigmoid/Softmax and ads one more cycle through create_fc_layer
+calls apply_init on fc_model - most probably initialise some weights for fc_layers
+finally does self.model=nn.Sequential(*(layers+fc_layers)).cuda()
