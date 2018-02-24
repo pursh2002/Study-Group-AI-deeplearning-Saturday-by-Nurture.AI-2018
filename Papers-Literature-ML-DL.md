@@ -48,3 +48,5 @@ https://nurture.ai/p/a02d8113-36a4-4783-954f-a48d37098b20-- eCommerceGAN: A Gene
 
 
 https://github.com/pursh2002/DL-2
+
+https://www.arxiv-vanity.com/papers/1802.07740/?utm_content=buffera6f07&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
