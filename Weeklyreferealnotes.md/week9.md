@@ -50,6 +50,13 @@ In statistics, typically a loss function is used for parameter estimation, and t
 # batch (re-)normalization
 https://medium.com/luminovo/a-refresher-on-batch-re-normalization-5e0a1e902960
 
+# Back Propagation
+
+http://neuralnetworksanddeeplearning.com/chap2.html
+http://cs231n.github.io/optimization-2/
+http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture4.pdf
+
+
 
 
 
