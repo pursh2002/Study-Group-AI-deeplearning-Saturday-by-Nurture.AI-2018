@@ -16,17 +16,19 @@ Git
 Setting up AWS/Google Cloud/local servers for GPU training
 Lecture videos for learning essence of Algebra
 
-[https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+* [https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
-[http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BNsfBN73TR5%2BqTToqiMl5yw%3D%3D
+* https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D
 
-[[https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
+* [http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BNsfBN73TR5%2BqTToqiMl5yw%3D%3D
 
-[https://www.deeplearning.ai)
+* [[https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 
-[http://www.fast.ai
+* [https://www.deeplearning.ai)
 
-[http://forums.fast.ai
+* [http://www.fast.ai
+
+* [http://forums.fast.ai
 
 Vectors, what even are they? | Essence of linear algebra, chapter 1
 Linear combinations, span, and basis vectors | Essence of linear algebra, chapter 2
