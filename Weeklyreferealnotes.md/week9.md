@@ -70,3 +70,72 @@ In biologically inspired neural networks, the activation function is usually an 
 http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture6.pdf
 https://en.wikipedia.org/wiki/Activation_function
 
+
+Minute of the Meetup 8: Feb 24 2018
+
+CS231 : CNN for Vision
+ 
+Lesson 1 :
+History of Computer Vision :
+Traditional CV Methods:How it Evolved?
+Computer Vision : Evolution
+Modern Computer Vision Tasks : Captioning, Segmentation , Completion, Generation ,SuperResolution, Style Transfer.
+
+Lesson 2 :
+Classification Pipeline
+Challenges in Computer Vision:
+Nearest Neighbor Classifier : Demo at Stanford Page : http://vision.stanford.edu/teaching/cs231n-demos/knn/
+BAD: K = 1 always works and perfectly fits on training data (No Generalization )
+KNN Disadvantages: Slow and Distance metrics not reliable
+Curse of Dimensionality : As the number of dimensions increases, ML Algorithms find it difficult to approximate complex functions as data becomes sparse.
+Linear Classification :
+Interpretation of Linear Classifier
+Short comings of Linear Classifier
+
+Lesson 3 :
+Revisit : Linear Classifier :
+Loss Function: Quantitatively determine how Bad the Weights ?
+How Loss changes : W small : Loss min : no of Classes-1.
+Regularization : Extra term added to loss to pick simple Weights(Smaller and Better)
+Hinge Loss
+Softmax: Cross Entropy
+
+Lesson 4:
+Back Prop : Recursively use Chain Rule to compute gradient wrt to all variable
+How is Backprop is computed?
+Numeric Gradient vs Analytic gradient
+Code Implementation of Backprop (Will be Dealt in Hands on Session)
+Lesson 5:
+History of Neural Networks :
+Perceptron: Rosenblatt
+CNN : Current State and Application
+How CNN's Work : ?
+Activation Map :
+Kernel Size :
+No of Kernels:
+Stride :
+Padding :
+To preserve Size : (Kernel Size -1)/2
+Output Size : (Input Image Size-Kernel Size)/Stride+1
+Pooling : Pooling Vs Stride
+
+Lesson 6:
+Setting up the model: initialization regularization
+Why 0 Centered is desired in Activation Function : Gradient is going to be all positive or all negative
+Bad/dead Relu : Caused due to bad initialization : Learning rate too high
+Normalizing data : all feature same range : all feature contribute equally
+Images we don't normalize much as in other ML
+
+Note : Please Go through the course notes page for detailed notes: Link : http://cs231n.github.io/ :
+
+Hands on Session :
+
+Documentation :
+Keras: https://keras.io/getting-started/sequential-model-guide/
+Tensorflow: https://www.tensorflow.org/api_docs/python/
+Pytorch: http://pytorch.org/docs/0.3.1/
+
+Activity : https://goo.gl/9enZdN ( Please Sacve your own local Copy and Work)
+
+Solution : https://goo.gl/sMBEHv (Refer Only when Needed)
+
