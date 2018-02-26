@@ -1,4 +1,4 @@
-# Group Study-AI-deeplearning-Saturday-by-Nurture.AI-2018 
+# Study Groupy-AI-deeplearning-Saturday-by-Nurture.AI-2018 
 * instructor---Jeremy Howard
 ## study material/practice Notes by Dr Purshottam/Bangalore chapter
 Making rigorous AI education accessible and free, using materials used at top universities.
