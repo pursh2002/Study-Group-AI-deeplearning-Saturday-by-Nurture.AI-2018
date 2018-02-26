@@ -11,3 +11,4 @@ Making rigorous AI education accessible and free, using materials used at top un
 * http://web.stanford.edu/class/cs224n/ -- Natural Language Processing with deeplearning
 
 
+* http://www.deeplearningbook.org/ -- text
