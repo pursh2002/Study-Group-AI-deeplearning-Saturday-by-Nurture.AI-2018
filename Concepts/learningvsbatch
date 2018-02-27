@@ -1,3 +1,63 @@
-[https://miguel-data-sc.github.io/2017-11-05-first/ 
-[https://towardsdatascience.com/understanding-learning-rates-and-how-it-improves-performance-in-deep-learning-d0d4059c1c10 
-[http://forums.fast.ai/t/deeplearning-lecnotes3/7866
+* [https://miguel-data-sc.github.io/2017-11-05-first/ 
+* [https://towardsdatascience.com/understanding-learning-rates-and-how-it-improves-performance-in-deep-learning-d0d4059c1c10 
+* [http://forums.fast.ai/t/deeplearning-lecnotes3/7866
+
+Learning rate is a hyper-parameter that controls how much we are
+adjusting the weights of our network with respect the loss gradient. 
+
+formula
+
+new_weight = existing_weight — learning_rate * gradient
+
+The lower the value, the slower we travel along the downward slope. 
+too large then we overshoot
+
+Typically learning rates are configured naively at random by the user. At best, the user would leverage on past experiences 
+(or other types of learning material) to gain the intuition on what is the best value to use in setting learning rates.
+
+learning rate is imprtent how fast we can converge to the local minima 
+Less training time, lesser money spent on GPU cloud compute. :)
+
+“Cyclical Learning Rates for Training Neural Networks.” [4], Leslie N. Smith argued that you could estimate a good learning rate by training 
+the model initially with a very low learning rate and increasing it (either linearly or exponentially) at each iteration.
+
+learn.lr_find()
+learn.sched.plot_lr()
+
+at one time the training loss becomes harder to improve,
+difficulty in minimizing the loss arises from saddle points rather than poor local minima.
+
+how do we overcoem thsi\?
+we’re going to be changing the learning rate every iteration according to some cyclic function f
+min max lern rate same / another lr cut to half after each cycle
+https://cdn-images-1.medium.com/max/600/1*f96Kg_Ogd_9S2gGYKq94gA.png
+
+another method the stocastic gradiant 
+
+uses the cosine function as the cyclic function
+restarts the learning rate at the maximum at each cycle
+when the learning rate is restarted, it does not start from scratch;
+but rather from the parameters to which the model converged during the last step
+
+https://cdn-images-1.medium.com/max/800/1*3kkV66xEObjWpYiGdBBivg.png
+
+
+model building is done in fast.ai
+
+1. Enable data augmentation, and precompute=True
+2. Use lr_find() to find highest learning rate where loss is still clearly improving
+3. Train last layer from precomputed activations for 1–2 epochs
+4. Train last layer with data augmentation (i.e. precompute=False) for 2–3 epochs with cycle_len=1
+5. Unfreeze all layers
+6. Set earlier layers to 3x-10x lower learning rate than next higher layer
+7. Use lr_find() again
+8. Train full network with cycle_mult=2 until over-fitting
+
+step 2, 6, and 7 are concerned about learning rate
+item no.2 of the steps mentioned — where we touched on how to derive the best learning rate prior to training the model.
+subsequent section we went over how by using SGDR we are able to reduce the training time and increase accuracy by restarting the learning rate every now and then to avoid regions where gradient close to zero.
+Next is the differential learning? or discriminative fine tuning.
+
+It is a method where you set different learning rates to different layers in the network during training. This is in contrast to how people normally configure the learning rate, which is to use the same rate throughout the network during training.
+
+
