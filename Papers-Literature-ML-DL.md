@@ -50,3 +50,37 @@ https://nurture.ai/p/a02d8113-36a4-4783-954f-a48d37098b20-- eCommerceGAN: A Gene
 https://github.com/pursh2002/DL-2
 
 https://www.arxiv-vanity.com/papers/1802.07740/?utm_content=buffera6f07&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
+
+https://arxiv.org/pdf/1611.01491.pdf
+https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
+https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
+
+
+ML 
+Statistics, Probability and Calculus.
+http://www2.math.uu.se/~thulin/mm/breiman.pdf -- good start to understand the views of statistical and computer science research community about Statistical Learning
+
+http://vita.had.co.nz/papers/tidy-data.pdf -- data preparation and preprocessing
+
+https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/
+
+https://ti.arc.nasa.gov/m/profile/dhw/papers/78.pdf
+
+Data Representation: Where you transform data to another space (usually vector space).
+https://arxiv.org/pdf/1301.3781.pdf --- words in vector space
+https://cs.stanford.edu/~quocle/paragraph_vector.pdf -- A document to vector
+
+Learning:
+http://ruder.io/optimizing-gradient-descent/
+http://www.maths.ed.ac.uk/~prichtar/papers/Papamakarios.pdf
+https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
+
+Evaluation: Empirical evaluation of a model is very important, to understand the model and infer from it.
+
+https://www.analyticsvidhya.com/blog/2016/02/7-important-model-evaluation-error-metrics/
+http://pages.cs.wisc.edu/~dpage/cs760/evaluating.pdf
+http://www.damienfrancois.be/blog/files/modelperfcheatsheet.pdf%20(http://www.damienfrancois.be/blog/files/modelperfcheatsheet.pdf
+
+
+
+
