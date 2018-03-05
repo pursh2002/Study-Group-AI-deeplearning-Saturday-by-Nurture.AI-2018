@@ -216,3 +216,4 @@ a deep learning model in those 784 features for each image for input and predict
 
 
 http://www.datascribble.com/blog/deep-learning/getting-started-keras/
+https://hackernoon.com/how-to-do-real-time-trigger-word-detection-with-keras-b8a56ab106b7
