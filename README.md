@@ -2,6 +2,7 @@
 * Instructor---Jeremy Howard & Co
 ## Study material/practice Notes by Dr Purshottam/Bangalore chapter
 Making rigorous AI education accessible and free, using materials used at top universities.
+approach --- https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48
 
 ### https://nurture.ai/ai-saturdays
 * http://course.fast.ai -- Fastai
