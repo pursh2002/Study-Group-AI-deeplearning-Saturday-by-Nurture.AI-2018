@@ -1,6 +1,7 @@
 * [https://miguel-data-sc.github.io/2017-11-05-first/ 
 * [https://towardsdatascience.com/understanding-learning-rates-and-how-it-improves-performance-in-deep-learning-d0d4059c1c10 
 * [http://forums.fast.ai/t/deeplearning-lecnotes3/7866
+* https://www.analyticsvidhya.com/blog/2017/10/fundamentals-deep-learning-activation-functions-when-to-use-them/?utm_content=buffer1ebf5&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
 
 Learning rate is a hyper-parameter that controls how much we are
 adjusting the weights of our network with respect the loss gradient. 
