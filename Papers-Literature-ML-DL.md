@@ -81,6 +81,17 @@ https://www.analyticsvidhya.com/blog/2016/02/7-important-model-evaluation-error-
 http://pages.cs.wisc.edu/~dpage/cs760/evaluating.pdf
 http://www.damienfrancois.be/blog/files/modelperfcheatsheet.pdf%20(http://www.damienfrancois.be/blog/files/modelperfcheatsheet.pdf
 
+Paper:
+https://lnkd.in/dPC2h-R
+Code:
+https://lnkd.in/dJzCHMi
 
 
+https://arxiv.org/abs/1603.08155
+http://research.nvidia.com/publication/2017-10_Progressive-Growing-of
+https://news.ycombinator.com/item?id=15572790
+https://github.com/Avhirup/Progressive-Growing-Of-GANs-Pytorch-
 
+https://arxiv.org/abs/1506.01186
+
+http://forums.fast.ai/t/wiki-lesson-2/9399
