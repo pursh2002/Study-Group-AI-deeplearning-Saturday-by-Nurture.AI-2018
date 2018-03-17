@@ -3,3 +3,5 @@
 [https://github.com/floydwch/kaggle-cli
 
 http://dsgeek.com/2018/02/08/KaggleTFSpeech.html
+
+https://www.kdnuggets.com/2016/06/doing-data-science-kaggle-walkthrough-data-cleaning.html
