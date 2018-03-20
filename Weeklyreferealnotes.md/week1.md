@@ -24,6 +24,8 @@ Lecture videos for learning essence of Algebra
 
 * [[https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 
+* https://s3.amazonaws.com/MLMastery/linear_algebra_for_machine_learning_mini_course.pdf?__s=puytkkthvc4it6pnz7vv
+
 * [https://www.deeplearning.ai)
 
 * [http://www.fast.ai
