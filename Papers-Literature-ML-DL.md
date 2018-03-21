@@ -99,3 +99,5 @@ http://forums.fast.ai/t/wiki-lesson-2/9399
 https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
 
 https://www.jeremyjordan.me/neural-networks-training/
+
+GAN : https://lnkd.in/ddCmS9j?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BO4efC7IAT7irll63pQZKoA%3D%3D
