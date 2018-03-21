@@ -95,3 +95,7 @@ https://github.com/Avhirup/Progressive-Growing-Of-GANs-Pytorch-
 https://arxiv.org/abs/1506.01186
 
 http://forums.fast.ai/t/wiki-lesson-2/9399
+
+https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
+
+https://www.jeremyjordan.me/neural-networks-training/
