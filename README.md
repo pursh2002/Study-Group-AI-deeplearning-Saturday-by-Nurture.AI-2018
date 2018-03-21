@@ -1,5 +1,5 @@
 # Study Group-AI-deeplearning-Saturday-by-Nurture.AI-2018 
-* Instructor---Jeremy Howard & Co
+* Instructor---Jeremy Howard & Co Akash, Gokul, Ashish
 ## Study material/practice Notes by Dr Purshottam/Bangalore chapter
 Making rigorous AI education accessible and free, using materials used at top universities.
 approach --- https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48
