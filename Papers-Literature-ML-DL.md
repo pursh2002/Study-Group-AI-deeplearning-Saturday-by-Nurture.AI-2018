@@ -101,3 +101,21 @@ https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.
 https://www.jeremyjordan.me/neural-networks-training/
 
 GAN : https://lnkd.in/ddCmS9j?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BO4efC7IAT7irll63pQZKoA%3D%3D
+
+
+Are CNNs better than RNNs (including LSTM and GRU) for sequence modeling? 
+
+This is the strong claim of an important new paper from Carnegie Mellon and Intel: An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling, by Shaojie Bai, J. Zico Kolter, Vladlen Koltun.
+
+Authors carried out an extensive comparison of simple CNNs vs LSTM and GRU on a large number of tasks. According to the authors, their general CNNs:
+
+"convincingly outperform baseline recurrent architectures across a broad range of sequence modeling tasks."
+
+"exhibit substantially longer memory, and are thus more suitable for domains where a long history is required."
+
+"Until recently, before the introduction of architectural elements such as dilated convolutions and residual connections, convolutional architectures were indeed weaker. Our results indicate that with these elements, a simple convolutional architecture is more effective across diverse sequence modeling tasks than recurrent architectures such as LSTMs.
+
+"We conclude that convolutional networks should be regarded as a natural starting point and a powerful toolkit for sequence modeling."
+
+Arxiv: https://lnkd.in/f2kr6dE
+Github: https://lnkd.in/fY5TTDd
