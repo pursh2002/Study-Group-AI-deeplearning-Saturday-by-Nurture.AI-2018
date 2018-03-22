@@ -102,7 +102,7 @@ https://www.jeremyjordan.me/neural-networks-training/
 
 GAN : https://lnkd.in/ddCmS9j?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BO4efC7IAT7irll63pQZKoA%3D%3D
 
-
+Alberto:
 Are CNNs better than RNNs (including LSTM and GRU) for sequence modeling? 
 
 This is the strong claim of an important new paper from Carnegie Mellon and Intel: An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling, by Shaojie Bai, J. Zico Kolter, Vladlen Koltun.
