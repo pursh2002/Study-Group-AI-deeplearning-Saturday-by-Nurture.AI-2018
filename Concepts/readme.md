@@ -1,3 +1,4 @@
+* https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-visualizing-convolutional-neural-networks/?utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
 * https://www.analyticsvidhya.com/blog/2016/08/deep-learning-path/
 * https://www.manning.com/books/deep-learning-with-python -- book
 * http://colah.github.io
