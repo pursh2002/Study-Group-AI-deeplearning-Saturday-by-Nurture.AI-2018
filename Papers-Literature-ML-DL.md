@@ -119,3 +119,10 @@ Authors carried out an extensive comparison of simple CNNs vs LSTM and GRU on a 
 
 Arxiv: https://lnkd.in/f2kr6dE
 Github: https://lnkd.in/fY5TTDd
+
+"we use ablation analyses to measure the reliance of trained networks on single directions. We define a single direction in activation space as the activation of a single unit or feature map or some linear combination of units in response to some input. We find that networks which memorize the training set are substantially more dependent on single directions than those which do not, and that this difference is preserved even across sets of networks with identical topology trained on identical data, but with different generalization performance. Moreover, we found that as networks begin to overfit, they become more reliant on single directions, suggesting that this metric could be used as a signal for early stopping."
+
+Credit: Ari S. Morcos, David G.T. Barrett, Neil C. Rabinowitz, & Matthew Botvinick
+
+paper: https://lnkd.in/fhQ9v42
+blog: https://lnkd.in/f7Cprsq
