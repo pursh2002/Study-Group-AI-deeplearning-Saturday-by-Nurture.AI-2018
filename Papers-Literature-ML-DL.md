@@ -126,3 +126,5 @@ Credit: Ari S. Morcos, David G.T. Barrett, Neil C. Rabinowitz, & Matthew Botvini
 
 paper: https://lnkd.in/fhQ9v42
 blog: https://lnkd.in/f7Cprsq
+
+https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0
