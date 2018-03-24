@@ -9,3 +9,4 @@
 * http://bit.ly/2F7he84
 * http://bit.ly/2tcwIWQ
 * http://bit.ly/2oDUaaG
+* https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B8KHXv8bQTsubE%2BkK1NZbaQ%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-object
