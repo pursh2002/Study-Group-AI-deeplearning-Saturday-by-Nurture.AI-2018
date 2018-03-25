@@ -128,3 +128,23 @@ paper: https://lnkd.in/fhQ9v42
 blog: https://lnkd.in/f7Cprsq
 
 https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0
+
+The following model, GBFS (Gradient Boosted Feature Selection) in [1], a modification of Gradient Boosted Trees to do feature selection in a binary classification task. The Matlab code for GBFS is available in [2], so learning enthusiasts may want to check it out.
+
+A previous related post on a hybrid of XGboost & Wavelet here https://lnkd.in/f3m5ERj is relevant as well.
+
+Overview:
+The 4 conditions that a feature selection algorithm should ideally satisfy:
+    a) reliably extract relevant features; 
+    b) be able to identify non-linear feature interactions; 
+    c) scale linearly with the number of features and dimensions; 
+    d) allow the incorporation of known sparsity structure; 
+The proposed GBFS satisfies all 4 of these requirements. Test on several real world data-sets show that it matches or outperforms other state of the art feature selection algorithms. Yet it scales to larger data set sizes and naturally allows for domain-specific side information.
+
+The README text file has the instructions on mex compiling the C files and also how to run the 'example.m' demo file in the GBFS package.
+
+[1] " Gradient Boosted Feature Selection " (PDF)
+https://lnkd.in/fdHJAqK
+
+[2] " GBFS Matlab Code " (Zip)
+https://lnkd.in/fbYMiex
