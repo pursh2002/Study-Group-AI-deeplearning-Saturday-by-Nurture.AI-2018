@@ -149,3 +149,5 @@ https://lnkd.in/fdHJAqK
 [2] " GBFS Matlab Code " (Zip)
 https://lnkd.in/fbYMiex
 https://www.datasciencecentral.com/profiles/blogs/a-curated-list-of-resources-dedicated-to-bayesian-deep-learning
+
+https://www.kdnuggets.com/2017/04/top-20-papers-machine-learning.html
