@@ -153,3 +153,10 @@ https://www.datasciencecentral.com/profiles/blogs/a-curated-list-of-resources-de
 https://www.kdnuggets.com/2017/04/top-20-papers-machine-learning.html
 
 https://www.kdnuggets.com/2015/05/dark-knowledge-neural-network.html
+
+From text-to-image. Image generation from text with Generative Adversarial Networks. 
+
+"Deep Attentional Multimodal Similarity Network"
+
+Paper: https://lnkd.in/dK95Wyy
+Code: https://lnkd.in/dNC7wed
