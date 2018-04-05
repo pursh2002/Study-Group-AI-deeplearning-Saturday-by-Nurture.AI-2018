@@ -17,6 +17,8 @@ approach --- https://towardsdatascience.com/how-to-learn-deep-learning-in-6-mont
 
 * http://rll.berkeley.edu/deeprlcourse/ --- DeepMind Reinforcement Learning
 
-* http://www.deeplearningbook.org/ -- text
+* http://www.deeplearningbook.org/ -- text / * https://github.com/hadrienj/deepLearningBook-Notes
 
 * https://github.com/pursh2002/t81_558_deep_learning
+
+
