@@ -21,4 +21,6 @@ approach --- https://towardsdatascience.com/how-to-learn-deep-learning-in-6-mont
 
 * https://github.com/pursh2002/t81_558_deep_learning
 
+* http://introtodeeplearning.com/#schedule
+
 
