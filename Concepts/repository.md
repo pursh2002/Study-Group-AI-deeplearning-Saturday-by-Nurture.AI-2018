@@ -1,3 +1,4 @@
+https://github.com/AccelAI/AI-DL-Enthusiasts-Meetup/tree/master/Deep-Learning-Book-Review
 https://github.com/EvilPort2/Sign-Language
 https://github.com/carpedm20/ENAS-pytorch
 https://github.com/kennethreitz/twitter-scraper
