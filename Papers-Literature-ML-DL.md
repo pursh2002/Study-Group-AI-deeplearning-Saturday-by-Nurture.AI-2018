@@ -3,6 +3,8 @@
 
 * https://github.com/GauravBh1010tt/DeepLearn
 
+* https://medium.com/nurture-ai/https-medium-com-nurture-ai-a-collaborative-platform-for-getting-more-out-of-ai-research-b9888df20b6e
+
 reading research paper :
 https://www.youtube.com/watch?v=SHTOI0KtZnU--siraj reading reseach paper
 https://medium.com/ai-saturdays/how-to-read-academic-papers-without-freaking-out-3f7ef43a070f
