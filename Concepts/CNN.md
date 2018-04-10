@@ -23,3 +23,5 @@ https://github.com/fastai/fastai/tree/master/courses/dl1/excel
 single lable --- softmax
 
 multilabel --sigmoid
+
+https://www.linkedin.com/pulse/derivation-convolutional-neural-network-from-fully-connected-gad/
