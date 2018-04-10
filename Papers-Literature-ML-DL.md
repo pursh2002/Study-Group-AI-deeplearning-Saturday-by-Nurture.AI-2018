@@ -1,4 +1,5 @@
 
+* https://www.kdnuggets.com/2018/03/top-20-deep-learning-papers-2018.html
 * https://www.arxiv-vanity.com/papers/1803.06131/
 
 * https://github.com/GauravBh1010tt/DeepLearn
