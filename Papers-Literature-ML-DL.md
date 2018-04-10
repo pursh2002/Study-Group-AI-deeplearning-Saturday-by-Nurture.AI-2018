@@ -5,6 +5,8 @@
 
 * https://medium.com/nurture-ai/https-medium-com-nurture-ai-a-collaborative-platform-for-getting-more-out-of-ai-research-b9888df20b6e
 
+* https://towardsdatascience.com/deep-learning-with-apache-spark-part-1-6d397c16abd
+
 reading research paper :
 https://www.youtube.com/watch?v=SHTOI0KtZnU--siraj reading reseach paper
 https://medium.com/ai-saturdays/how-to-read-academic-papers-without-freaking-out-3f7ef43a070f
