@@ -3,3 +3,4 @@
 * https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/?utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 * http://web.stanford.edu/class/cs224n/reports.html
 * https://www.datasciencecentral.com/profiles/blogs/free-book-sql-essentials
+* https://www.analyticsvidhya.com/blog/2018/04/stanford-nlp-course-projects-available-online-theyre-super-impressive/?utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
