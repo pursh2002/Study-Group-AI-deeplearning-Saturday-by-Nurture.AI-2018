@@ -31,3 +31,5 @@ https://lnkd.in/gTVtA28
 10- Fundamentals of Deep Learning
 (Nicholas Locascio, Nikhil Buduma,2017) https://lnkd.in/gYb3cZR
 Open options for Sarah Nooravi’s post
+
+https://www.kdnuggets.com/2018/04/top-free-books-deep-learning.html
