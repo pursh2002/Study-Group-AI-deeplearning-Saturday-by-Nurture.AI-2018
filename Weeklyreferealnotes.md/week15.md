@@ -17,6 +17,12 @@ Networks is: https://youtu.be/pPN8d0E3900
 
 Sargod Imperial Field 
 
+https://github.com/acburigo/CapsNet/blob/master/CapsNet.ipynb
+
 https://www.analyticsvidhya.com/blog/2018/04/essentials-of-deep-learning-getting-to-know-capsulenets/?utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
 
 https://github.com/cv-group/Awesome-CapsuleNet
+
+https://github.com/loretoparisi/CapsNet
+
+http://forums.fast.ai/t/hintons-capsule-networks/7305
