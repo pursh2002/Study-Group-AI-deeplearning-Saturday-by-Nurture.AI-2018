@@ -26,3 +26,5 @@ https://github.com/cv-group/Awesome-CapsuleNet
 https://github.com/loretoparisi/CapsNet
 
 http://forums.fast.ai/t/hintons-capsule-networks/7305
+
+https://medium.com/ai³-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b
