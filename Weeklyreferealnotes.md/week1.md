@@ -59,6 +59,8 @@ neptune
 GPU cards 700$ nvidia(98000), geforce gtx 1080 Ti
 Pytorch by facebook tensorflow by google
 
+* https://www.analyticsvidhya.com/blog/2016/05/comprehensive-guide-ml-amazon-web-services-aws/?utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+
 ### install at google cloud
 
 [https://towardsdatascience.com/running-jupyter-notebook-in-google-cloud-platform-in-15-min-61e16da34d52
