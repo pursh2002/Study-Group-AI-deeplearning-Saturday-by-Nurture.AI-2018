@@ -115,7 +115,8 @@ https://www.paperspace.com
 
 ### Build your own computer with GPU for 1000$
 
-https://www.oreilly.com/learning/build-a-super-fast-deep-learning-machine-for-under-1000
+* https://www.oreilly.com/learning/build-a-super-fast-deep-learning-machine-for-under-1000
+* https://towardsdatascience.com/build-and-setup-your-own-deep-learning-server-from-scratch-e771dacaa252
 
 ### Python Basics
 
