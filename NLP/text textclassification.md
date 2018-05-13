@@ -37,3 +37,27 @@ refer:
 [https://www.youtube.com/watch?v=nfoudtpBV68&list=PL6397E4B26D00A269
 
 https://www.kdnuggets.com/2017/07/5-free-resources-getting-started-deep-learning-nlp.html?utm_content=buffer94108&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+
+Here is the list of resources to learn Natural Language Processing from scratch to expert level ➪ 
+
+● Jason Brownlee - What Is Natural Language Processing: https://lnkd.in/f-fuRr4
+
+● Emmanuel Ameisen How to solve 90% of NLP problems: https://lnkd.in/f9FeHUg
+
+● Analytics Vidhya - Regular Expressions in Python: https://lnkd.in/fXc_xT4
+
+● Analytics Vidhya - Ultimate Guide to Understand & Implement Natural Languag Processing: https://lnkd.in/fitRNBh
+
+● Harrison Kinsley - Natural Language Processing With Python and NLTK: https://lnkd.in/fE3JXHi
+
+● Coursera - Natural Language Processing: https://lnkd.in/f79aUvD
+
+● Siraj Raval - Word2Vec Tutorial: https://lnkd.in/fWFHAzP
+
+● Stanford - Deep Learning for Natural Language Processing: https://lnkd.in/f8TgNjS
+
+● Siraj Raval - How to Make a Text Summarizer: https://lnkd.in/ffMbnA4
+
+● Siraj Raval  - How to Generate Your Own Wikipedia Articles: https://lnkd.in/f32jiP9
+
+Note - Taking all those course just won't make you expert, you'll have to practice a lot. Happy Learning by doing ✌️
