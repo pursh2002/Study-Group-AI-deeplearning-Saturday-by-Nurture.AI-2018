@@ -170,3 +170,4 @@ From text-to-image. Image generation from text with Generative Adversarial Netwo
 
 Paper: https://lnkd.in/dK95Wyy
 Code: https://lnkd.in/dNC7wed
+https://www.quora.com/Which-are-the-top-20-papers-related-to-AI-both-machine-learning-symbolic-so-that-I-can-cover-the-basics-and-choose-a-niche-for-my-research
