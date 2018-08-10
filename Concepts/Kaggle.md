@@ -25,3 +25,18 @@ This is a must for those that are really interested in ML. Kaggle has many compe
 
 4. Datasets - https://lnkd.in/gZjpxtX
 There are thousands of datasets you can download here all from different domains!
+
+
+Welcome to Kaggle Data Notes!
+Enjoy these new, intriguing, and overlooked datasets and kernels.
+1. 🤬 From Hate Speech to Russian Troll Tweets (link)
+2. 🇰 Data Science Trends on Kaggle (link)
+3. 👜 Fashion AC-GAN with Keras (link)
+4. 📈 (Bio)statistics in R: Part #2 (link)
+5. 🛰️ Segmenting Buildings in Satellite Images (link)
+6. ⚽ World Cup 2018: The One That Nearly Came Home (link)
+7. 🇯🇵 The Best "Izakaya" Restaurant in Kyoto (link)
+8. 👹 Dataset: Russian Troll Tweets (link)
+9. 🇺🇸  Dataset: Political Propaganda on Facebook (link)
+10.🇵🇰 Dataset: Predict Pakistan Elections 2018 (link)
+https://www.kaggle.com/antmarakis/another-neural-network-from-scratch?utm_medium=email&utm_source=mailchimp&utm_campaign=datanotes-20180809
